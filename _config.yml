@@ -2,12 +2,12 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: Academic Portfolio
+title: Avner Bensoussan
 first_name: Avner
 middle_name: 
 last_name: Bensoussan
 contact_note: >
-  You can reach me at <a href="mailto:avner.bensoussan@kcl.ac.uk">email</a>.
+  You can reach me at this <a href="mailto:avner.bensoussan@kcl.ac.uk">email</a>.
 description: ''
 footer_text: ''
 keywords: 
@@ -36,8 +36,8 @@ repo_trophies:
 # To use a different instance or service for displaying GitHub stats and trophies,
 # update these URLs. These are used in the repository templates.
 external_services:
-  github_readme_stats_url: https://github-readme-stats.vercel.app
-  github_profile_trophy_url: https://github-profile-trophy.vercel.app
+  github_readme_stats_url: ''
+  github_profile_trophy_url: https://github.com/avnerbensoussan
 
 # -----------------------------------------------------------------------------
 # RSS Feed

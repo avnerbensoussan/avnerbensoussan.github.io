@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2015-10-22 15:59:00-0400
-inline: true
+date: 2015-01-
+inline: 
 related_posts: false
 ---
 
-A simple inline announcement.
+'A Taxonomy of Real Faults in Hybrid Quantum-Classical Architectures' was accepted by ACM TOSEM. Publication coming very soon! 

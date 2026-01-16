@@ -10,16 +10,12 @@ contact_note: >
   You can reach me at <a href="mailto:avner.bensoussan@kcl.ac.uk">email</a>.
 description: ''
 footer_text: ''
-keywords:
-  - Hybrid Quantum-Classical Architectures
-  - Quantum Software Testability
-  - Faults Understanding
-  - Quantum Information Theory
+keywords: ''
 lang: en
 icon: ⚛️
 
 url: https://avnerbensoussan.github.io
-baseurl: '/avnerbensoussan'
+baseurl: ''
 last_updated: false
 impressum_path: ''
 back_to_top: true

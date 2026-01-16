@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='https://kclpure.kcl.ac.uk/portal/en/persons/avner-bensoussan/'>Affiliation</a>. 
+subtitle: <a href='https://kclpure.kcl.ac.uk/portal/en/persons/avner-bensoussan/'>Affiliation</a>
 
 profile:
   align: right

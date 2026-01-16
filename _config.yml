@@ -4,13 +4,18 @@
 
 title: Academic Portfolio # the website title (if blank, full name will be used instead)
 first_name: Avner
-middle_name: 
+middle_name: ""
 last_name: Bensoussan
 contact_note: >
   Feel free to reach out to me via <a href="mailto:avner.bensoussan@kcl.ac.uk">email</a>.
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
 footer_text: >
-keywords: Hybrid Quantum-Classical Architectures, Quantum Software Testability, Faults Understanding, Quantum Information Theory # add your own keywords or leave empty
+keywords:
+  - Hybrid Quantum-Classical Architectures
+  - Quantum Software Testability
+  - Faults Understanding
+  - Quantum Information Theory
+ # add your own keywords or leave empty
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: ⚛️ # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
@@ -90,7 +95,7 @@ bing_site_verification: # out your bing-site-verification ID (Bing Webmaster)
 # -----------------------------------------------------------------------------
 
 blog_name: avnerbensoussan # blog_name will be displayed in your blog page
-blog_description: 
+blog_description: ""
 permalink: /blog/:year/:title/
 lsi: false # produce an index for related posts
 

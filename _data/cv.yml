@@ -1,135 +1,30 @@
-- title: General Information
+- title: "General Information"
   type: map
   contents:
-    - name: Full Name
-      value: Avner Bensoussan
-    - name: Email
-      value: avner.bensoussan@kcl.ac.uk
-    - name: LinkedIn
-      value: Avner Bensoussan
-    - name: ORCID
-      value: 0009-0007-3285-9468
-    - name: Google Scholar
-      value: Avner Bensoussan
-    - name: Languages
-      value: French (Native), Hebrew (Fluent), English (Fluent), Portuguese (Beginner), Arabic (Beginner)
+    - name: "Full Name"
+      value: "Avner Bensoussan"
+    - name: "Date of Birth"
+      value: "06th December 1996"
+    - name: "Languages"
+      value: "English, French, Hebrew, Portuguese, Arabic"
+    - name: "Email"
+      value: "avner.bensoussan@kcl.ac.uk"
+    - name: "LinkedIn"
+      value: "Avner Bensoussan"
+    - name: "ORCID"
+      value: "0009-0007-3285-9468"
+    - name: "Google Scholar"
+      value: "Avner Bensoussan"
 
-- title: Research Objective
-  type: text
-  contents: |
-    I am a motivated researcher with expertise in Quantum Software Testing. My goal is to advance
-    the understanding and development of testability in Quantum Software and Hybrid
-    Quantum-Classical systems. My research focuses on Quantum Software Testability, Formal
-    Verification, Quantum Information Theory, and the design of testing frameworks for emerging
-    quantum-classical architectures.
-
-- title: Education
+- title: "Open Source Projects"
   type: time_table
   contents:
-    - title: B.Sc. in Computer Science (AI Pathway)
-      institution: King’s College London, UK
-      year: Sept 2020 – June 2023
-      description:
-        - "Final Project: Testing the Ethical Decision-Making of Autonomous Vehicles"
+    - title: "A Taxonomy of Real Faults in Hybrid Quantum-Classical Architectures"
+      url: "https://github.com/avnerbensoussan/A-Taxonomy-of-Real-Faults-in-Hybrid-Quantum-Classical-Architectures"
+      year: "2025–now"
+      description: "A-Taxonomy-of-Real-Faults-in-Hybrid-Quantum-Classical-Architectures"
 
-- title: Research Experience
-  type: time_table
-  contents:
-    - title: PhD Candidate, Department of Informatics
-      institution: King’s College London, UK
-      year: Oct 2023 – Present
-      description:
-        - Investigating testing methods for hybrid quantum-classical architectures.
-        - Defining a novel metric for quantum software testability: Quantum Squeeziness.
-        - Developed a taxonomy of real faults in hybrid systems.
-        - Prospective graduation: March 2027
-
-    - title: Fellow Researcher, Department of Informatics
-      institution: King’s College London, UK
-      year: May 2023 – Sept 2023
-      description:
-        - Investigated testing approaches for autonomous vehicles using CARLA and ROS.
-        - Designed and executed experiments evaluating realism in simulation environments.
-        - Collaboration with Dr. Qunying Song (UCL), resulting in a publication in Automated Software Engineering.
-
-- title: Publications
-  type: list
-  contents:
-    - "A. Bensoussan et al. (2025). A Taxonomy of Real Faults in Hybrid Quantum-Classical Architectures. arXiv – Accepted ACM TOSEM."
-    - "D. Blackwell, A. Bensoussan et al. (2024). Fuzzing-Based Differential Testing for Quantum Simulators. SSBSE 2024, pp. 63–69."
-    - "G. d’Aloisio, A. Bensoussan et al. (2024). Exploring LLM-Driven Explanations for Quantum Algorithms. ESEM 2024, pp. 475–481."
-    - "A. Bensoussan et al. (2024). Accelerating Quantum Eigensolver Algorithms With Machine Learning. arXiv – Accepted at OOPSLA 2025."
-    - "Q. Song, A. Bensoussan et al. (2025). Synthetic versus real: an analysis of critical scenarios for autonomous vehicle testing. Automated Software Engineering, Volume 32."
-    - "V. Klimis, A. Bensoussan et al. Shaking Up Quantum Simulators with Fuzzing and Rigour. Accepted at OOPSLA 2025."
-    - "A. Bensoussan. Quantum Squeeziness: An Information Theoretical Metric for Quantum Software Testability. Submitted to ICST."
-
-- title: Conferences & Presentations
-  type: time_table
-  contents:
-    - title: Lecture – Testing Hybrid Quantum-Classical Systems
-      institution: King’s College London
-      year: Dec 2025
-    - title: Poster – Quantum Squeeziness
-      institution: Advanced Quantum Algorithms for Many-body Systems Workshop, Montpellier
-      year: Nov 2025
-    - title: Talks – AccelerQ / Shaking Up Quantum Simulators with Fuzzing and Rigour
-      institution: OOPSLA 2025, Singapore
-      year: Oct 2025
-    - title: Poster – A Taxonomy of Real Faults in Hybrid Quantum-Classical Architectures
-      institution: PICS Summer School, ITU Copenhagen
-      year: Oct 2024
-    - title: Poster – A Taxonomy of Real Faults in Hybrid Quantum-Classical Architectures
-      institution: SeeQa, Oxford University
-      year: Sept 2024
-    - title: Talk – Synthetic versus real: an analysis of critical scenarios for autonomous vehicle testing
-      institution: MDENET
-      year: Dec 2023
-
-- title: Awards & Honors
-  type: time_table
-  contents:
-    - year: 2022
-      items:
-        - B’NAI B’RITH UK – Rothschild Institute Award
-
-- title: Technical Skills
-  type: nested_list
-  contents:
-    - title: Programming Languages
-      items:
-        - Python
-        - C
-        - C++
-        - R
-        - Scala
-        - MATLAB
-    - title: Frameworks & Tools
-      items:
-        - Qiskit
-        - Cirq
-        - PennyLane
-        - TensorFlow Quantum
-        - ROS
-        - CARLA
-        - Git
-        - LaTeX
-
-- title: Open Source Projects
-  type: time_table
-  contents:
-    - title: A Taxonomy of Real Faults in Hybrid Quantum-Classical Architectures
-      year: 2025 – Present
-      description:
-        - Research codebase accompanying the ACM TOSEM paper.
-
-- title: Other Interests
+- title: "Other Interests"
   type: list
   contents:
     - "Hobbies: Choir, Guitar, Triathlon"
-
-- title: References
-  type: list
-  contents:
-    - "Prof. Mohammad Reza Mousavi – Professor of Software Engineering, King’s College London (mohammad.mousavi@kcl.ac.uk)"
-    - "Prof. George Booth – Professor of Theoretical Physics, King’s College London (george.booth@kcl.ac.uk)"
-    - "Dr. Karine Even-Mendoza – Lecturer in Systems & Programming Languages, King’s College London (karine.even-mendoza@kcl.ac.uk)"

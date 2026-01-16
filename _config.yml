@@ -4,18 +4,18 @@
 
 title: Academic Portfolio
 first_name: Avner
-middle_name: ''
+middle_name: 
 last_name: Bensoussan
 contact_note: >
   You can reach me at <a href="mailto:avner.bensoussan@kcl.ac.uk">email</a>.
 description: ''
 footer_text: ''
-keywords: ''
+keywords: 
 lang: en
 icon: ⚛️
 
 url: https://avnerbensoussan.github.io
-baseurl: ''
+baseurl: 
 last_updated: false
 impressum_path: ''
 back_to_top: true

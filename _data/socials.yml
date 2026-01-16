@@ -26,7 +26,7 @@ github_username: avnerbensoussan # your GitHub user name
 # lastfm_id: # your lastfm id
 # lattes_id: # your ID on Lattes (Brazilian Lattes CV)
 # leetcode_id: # your LeetCode id
-linkedin_username: https://www.linkedin.com/in/avner-bensoussan-a6494322b/ # your LinkedIn user name
+linkedin_username: avner-bensoussan-a6494322b # your LinkedIn user name
 # mastodon_username: # your mastodon instance+username in the format instance.tld/@username
 # medium_username: # your Medium username
 # orcid_id: # your ORCID ID
@@ -35,8 +35,9 @@ linkedin_username: https://www.linkedin.com/in/avner-bensoussan-a6494322b/ # you
 # publons_id: # your ID on Publons
 # quora_username: # your Quora username
 # research_gate_profile: # your profile on ResearchGate
-rss_icon: true # comment this line to hide the RSS icon
-scholar_userid: https://scholar.google.com/citations?hl=fr&user=sK-d-vAAAAAJ&view_op=list_works&gmla=APjjwuZdqsXXHwUHVCJZrvXX4ynK3NTVEIiFvCUJneDeEOb4IL6xUbbqF6WwOHlytHJnY_THSrtzYhlUR7UqdgwobSoPmCwOo77AoaXpWrB0b94KM_fFtN3DI2oRvw8-kKv7b-kRsZLhlur6ftRRVrlG9rF3QskQcKWT4z8ecwxaWjUm__OegeFkQxhzIMgBKy-UPAJb&sciund=10159809062434139445 # your Google Scholar ID
+# rss_icon: true # comment this line to hide the RSS icon
+scholar_userid: sK-d-vAAAAAJ
+ # your Google Scholar ID
 # scopus_id: # your profile on Scopus
 # semanticscholar_id: # your Semantic Scholar ID
 # spotify_id: # your spotify id

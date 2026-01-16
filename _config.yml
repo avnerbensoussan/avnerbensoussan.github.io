@@ -2,7 +2,7 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: Academic Portfolio # the website title (if blank, full name will be used instead)
+title: Academic Portfolio
 first_name: Avner
 middle_name: ''
 last_name: Bensoussan
@@ -10,15 +10,19 @@ contact_note: >
   You can reach me at <a href="mailto:avner.bensoussan@kcl.ac.uk">email</a>.
 description: ''
 footer_text: ''
-keywords: Hybrid Quantum-Classical Architectures, Quantum Software Testability, Fault Understanding, Quantum Information Theory # add your own keywords or leave empty
-lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
-icon: ⚛️ # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
+keywords:
+  - Hybrid Quantum-Classical Architectures
+  - Quantum Software Testability
+  - Faults Understanding
+  - Quantum Information Theory
+lang: en
+icon: ⚛️
 
-url: https://avnerbensoussan.github.io # the base hostname & protocol for your site
-baseurl: # the subpath of your site, e.g. /blog/. Leave blank for root
-last_updated: false # set to true if you want to display last updated in the footer
-impressum_path: # set to path to include impressum link in the footer, use the same path as permalink in a page, helps to conform with EU GDPR
-back_to_top: true # set to false to disable the back to top button
+url: https://avnerbensoussan.github.io
+baseurl: ''
+last_updated: false
+impressum_path: ''
+back_to_top: true
 
 # -----------------------------------------------------------------------------
 # Theme

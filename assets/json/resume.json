@@ -33,7 +33,7 @@
     {
       "name": "King's College London",
       "position": "PhD Candidate, Department of Informatics",
-      "url": "",
+      "url": "https://www.kcl.ac.uk/informatics",
       "startDate": "2023-10-01",
       "summary": "Research on testing methods for hybrid quantum-classical architectures, defining novel metrics for quantum software testability.",
       "highlights": [
@@ -44,7 +44,7 @@
     {
       "name": "King's College London",
       "position": "Fellow Researcher",
-      "url": "",
+      "url": "https://www.kcl.ac.uk/informatics",
       "startDate": "2022-10-01",
       "endDate": "2023-09-01",
       "summary": "Research on testing approaches for autonomous vehicles using Carla and ROS.",
@@ -63,13 +63,13 @@
       "area": "Quantum Computing",
       "studyType": "PhD",
       "startDate": "2023-10-01",
-      "endDate": "",
+      "endDate": "https://kclpure.kcl.ac.uk/portal/en/persons/avner-bensoussan/",
       "courses": []
     },
     {
       "institution": "King's College London",
       "location": "London, UK",
-      "url": "",
+      "url": "https://www.kcl.ac.uk/study/undergraduate/courses/computer-science-bsc",
       "area": "Computer Science (AI Pathway)",
       "studyType": "BSc",
       "startDate": "2020-09-01",
@@ -85,10 +85,9 @@
       "date": "2022-01-01",
       "awarder": "B’NAI B’RITH UK",
       "summary": "",
-      "url": ""
+      "url": "https://www.bnaibrithuk.org/scholarships"
     }
   ],
-  "certificates": [],
   "publications": [
     {
       "name": "Toward Live Noise Fingerprinting in Quantum Software Engineering",
@@ -148,6 +147,15 @@
       "startDate": "2023-01-01",
       "endDate": "",
       "url": "https://github.com/avnerbensoussan/A-Taxonomy-of-Real-Faults-in-Hybrid-Quantum-Classical-Architectures"
+    }
+  ],
+    "certificates": [
+    {
+      "name": "Personal Trainer",
+      "date": "2021-08-01",
+      "issuer": "Wingate Institute",
+      "url": "https://wingate.org.il/en/coaches/",
+      "icon": "fa-solid fa-clipboard-check"
     }
   ],
   "skills": [

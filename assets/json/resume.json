@@ -4,7 +4,7 @@
     "label": "PhD Candidate in Quantum Computing",
     "image": "",
     "email": "avner.bensoussan@kcl.ac.uk",
-    "url": "https://avnerbensoussan.github.io/",
+    "url": "https://github.com/avnerbensoussan",
     "summary": "Motivated researcher specializing in Quantum Software Testing, Formal Verification, and Hybrid Quantum-Classical Systems.",
     "location": {
       "city": "London",
@@ -15,17 +15,17 @@
       {
         "network": "LinkedIn",
         "username": "Avner Bensoussan",
-        "url": ""
+        "url": "https://github.com/avnerbensoussan"
       },
       {
         "network": "Google Scholar",
         "username": "Avner Bensoussan",
-        "url": ""
+        "url": "https://github.com/avnerbensoussan"
       },
       {
         "network": "ORCID",
         "username": "0009-0007-3285-9468",
-        "url": ""
+        "url": "https://github.com/avnerbensoussan"
       }
     ]
   },
@@ -33,7 +33,7 @@
     {
       "name": "King's College London",
       "position": "PhD Candidate, Department of Informatics",
-      "url": "",
+      "url": "https://github.com/avnerbensoussan",
       "startDate": "2023-10-01",
       "summary": "Research on testing methods for hybrid quantum-classical architectures, defining novel metrics for quantum software testability.",
       "highlights": [
@@ -44,7 +44,7 @@
     {
       "name": "King's College London",
       "position": "Fellow Researcher",
-      "url": "",
+      "url": "https://github.com/avnerbensoussan",
       "startDate": "2022-10-01",
       "endDate": "2023-09-01",
       "summary": "Research on testing approaches for autonomous vehicles using Carla and ROS.",
@@ -59,7 +59,7 @@
     {
       "institution": "King's College London",
       "location": "London, UK",
-      "url": "",
+      "url": "https://github.com/avnerbensoussan",
       "area": "Quantum Computing",
       "studyType": "PhD",
       "startDate": "2023-10-01",
@@ -69,7 +69,7 @@
     {
       "institution": "King's College London",
       "location": "London, UK",
-      "url": "",
+      "url": "https://github.com/avnerbensoussan",
       "area": "Computer Science (AI Pathway)",
       "studyType": "BSc",
       "startDate": "2020-09-01",
@@ -93,29 +93,39 @@
       "name": "A Taxonomy of Real Faults in Hybrid Quantum-Classical Architectures",
       "publisher": "ACM TOSEM",
       "releaseDate": "2025-01-01",
-      "url": "",
+      "url": "https://github.com/avnerbensoussan",
       "summary": ""
     },
     {
       "name": "Fuzzing-Based Differential Testing for Quantum Simulators",
       "publisher": "SSBSE 2024",
       "releaseDate": "2024-01-01",
-      "url": "",
+      "url": "https://github.com/avnerbensoussan",
       "summary": ""
     },
     {
       "name": "Exploring LLM-Driven Explanations for Quantum Algorithms",
       "publisher": "ESEM 2024",
       "releaseDate": "2024-01-01",
-      "url": "",
+      "url": "https://github.com/avnerbensoussan",
       "summary": ""
     },
     {
       "name": "Accelerating Quantum Eigensolver Algorithms With Machine Learning",
       "publisher": "OOPSLA 2025",
       "releaseDate": "2025-01-01",
-      "url": "",
+      "url": "https://github.com/avnerbensoussan",
       "summary": ""
+    }
+  ],
+  "projects": [
+    {
+      "name": "A Taxonomy of Real Faults in Hybrid Quantum-Classical Architectures",
+      "summary": "Open-source taxonomy of real-world faults in hybrid quantum-classical systems.",
+      "highlights": ["Quantum Software Testing", "Hybrid Architectures"],
+      "startDate": "2023-01-01",
+      "endDate": "",
+      "url": "https://github.com/avnerbensoussan"
     }
   ],
   "skills": [
@@ -157,6 +167,11 @@
         "Formal Verification",
         "Hybrid Quantum-Classical Architectures"
       ]
+    },
+    {
+      "name": "Hobbies",
+      "icon": "",
+      "keywords": ["Choir", "Guitar", "Triathlon"]
     }
   ],
   "references": [
@@ -174,16 +189,6 @@
       "name": "Dr. Karine Even-Mendoza",
       "icon": "",
       "reference": "Lecturer in Systems & Programming Languages, King's College London"
-    }
-  ],
-  "projects": [
-    {
-      "name": "A Taxonomy of Real Faults in Hybrid Quantum-Classical Architectures",
-      "summary": "Open-source taxonomy of real-world faults in hybrid quantum-classical systems.",
-      "highlights": ["Quantum Software Testing", "Hybrid Architectures"],
-      "startDate": "2023-01-01",
-      "endDate": "",
-      "url": "https://github.com/avnerbensoussan/A-Taxonomy-of-Real-Faults-in-Hybrid-Quantum-Classical-Architectures"
     }
   ]
 }

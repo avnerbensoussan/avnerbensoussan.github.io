@@ -4,7 +4,7 @@ title: hobbies
 permalink: /hobbies/
 description: Activities beyond research that bring balance, structure, and inspiration to my academic life.
 nav: true
-nav_order: 7
+nav_order: 4
 display_categories: [work, fun]
 horizontal: false
 ---

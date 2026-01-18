@@ -2,67 +2,23 @@
 layout: profiles
 permalink: /people/
 title: hobbies
-description: Aside from quantum, here are some activities that feed my creativity, and empty my mind.
-nav: false
+description: Activities beyond research that bring balance, structure, and inspiration to my academic life.
+nav: true
 nav_order: 7
 ---
 
-<!-- 
-## 🎓 Guest Lecture — King’s College London
+## 🌿 Hobbies — Life Beyond Research
 
-I had the honour to be invited as a **guest lecturer at King’s College London**, where I presented my PhD research to **3rd-year Bachelor and Master students** in the context of **Prof. Mohammad Reza Mousavi’s Testing Module**.
+Outside of research, I invest time in activities that cultivate **discipline, curiosity, endurance, and collective creativity**—values that strongly resonate with my academic work.
 
-<p align="center">
-  <img src="/assets/img/teaching.png" alt="Guest lecture at King's College London" width="650">
-  <br>
-  <em>Guest lecture at King’s College London — Testing Module</em>
-</p>
+I sing weekly with **<a href="https://zinnechoeur.be" target="_blank">Zinnechoeur</a>**, an a cappella choir of **32 wonderfully diverse singers**. Guided by an inspiring conductor, we explore demanding and expressive vocal repertoires, building something meaningful through listening, balance, and collective effort.
 
----
+Endurance sports play a central role in my routine. **Triathlon** brings rigor and structure to my weeks through training, and to my years through long-term goals, races, and challenges. It provides a steady framework that supports both physical resilience and mental focus.
 
-## 🌏 Conference Presentation — OOPSLA 2025, Singapore
-
-I presented **two collaborative research papers at OOPSLA 2025 in Singapore**, focusing on testing and verification techniques for quantum and hybrid systems.
-
-**Presented papers:**
-- <a href="https://dl.acm.org/doi/abs/10.1145/3763132" target="_blank">Accelerating Quantum Eigensolver Algorithms with Machine Learning</a>
-- <a href="https://dl.acm.org/doi/abs/10.1145/3763100" target="_blank">Shaking Up Quantum Simulators with Fuzzing and Rigour</a>
-
-
-<div style="display: flex; gap: 24px; justify-content: center; flex-wrap: wrap;">
-
-  <div style="flex: 1; min-width: 280px; text-align: center;">
-    <img src="/assets/img/oopsla.jpeg"
-         alt="OOPSLA 2025 presentation - Paper 1"
-         style="width: 100%; border-radius: 8px; box-shadow: 0 8px 20px rgba(0,0,0,0.15);">
-    <em>Presenting at OOPSLA 2025 — Singapore</em>
-  </div>
-
-  <div style="flex: 1; min-width: 280px; text-align: center;">
-    <img src="/assets/img/oopsla2.jpeg"
-         alt="OOPSLA 2025 presentation - Paper 2"
-         style="width: 100%; border-radius: 8px; box-shadow: 0 8px 20px rgba(0,0,0,0.15);">
-    <em>Collaborative work on quantum software testing</em>
-  </div>
-
-</div>
-
----
-
-## 🏫 Summer School Presentation — ITU Copenhagen
-
-I presented my work on **faults in hybrid quantum-classical architectures** at the **PICS Summer School** hosted by the **IT University of Copenhagen**.  
-The presentation was based on our taxonomy of real faults observed in quantum-classical systems.
-
-**Project repository:**  
-<a href="https://github.com/avnerbensoussan/A-Taxonomy-of-Real-Faults-in-Hybrid-Quantum-Classical-Architectures" target="_blank">
-A Taxonomy of Real Faults in Hybrid Quantum-Classical Architectures
-</a>
+During summers, I turn to **bikepacking** as a way of traveling: slow, self-supported journeys that offer freedom, simplicity, and a close connection to landscapes and people. Complementing this, **hiking and backpacking** take me to remote and beautiful places around the world, offering immersion in nature to balance the year working in the lab on my research.
 
 <p align="center">
-  <img src="/assets/img/copenhagen.gif" alt="Summer School presentation at IT University of Copenhagen" width="650">
+  <img src="/assets/img/Hobbies.png" alt="Hobbies: choir, triathlon, bikepacking, hiking" width="650">
   <br>
-  <em>Summer School presentation — IT University of Copenhagen</em>
+  <em>From collective harmony to endurance and exploration — choir, triathlon, bikepacking, and hiking</em>
 </p>
-
- -->

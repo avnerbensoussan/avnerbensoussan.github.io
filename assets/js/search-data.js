@@ -23,6 +23,13 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/cv/";
           },
+        },{id: "nav-hobbies",
+          title: "hobbies",
+          description: "Activities beyond research that bring balance, structure, and inspiration to my academic life.",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/hobbies/";
+          },
         },{id: "nav-presentations",
           title: "presentations",
           description: "My latest presentations",
@@ -30,12 +37,12 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/presentations/";
           },
-        },{id: "nav-hobbies",
-          title: "hobbies",
-          description: "Activities beyond research that bring balance, structure, and inspiration to my academic life.",
+        },{id: "nav-people",
+          title: "people",
+          description: "members of the lab or group",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/hobbies/";
+            window.location.href = "/people/";
           },
         },{
         id: 'social-cv',

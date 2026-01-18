@@ -7,7 +7,7 @@ nav: false
 nav_order: 7
 ---
 
-
+<!-- 
 ## 🎓 Guest Lecture — King’s College London
 
 I had the honour to be invited as a **guest lecturer at King’s College London**, where I presented my PhD research to **3rd-year Bachelor and Master students** in the context of **Prof. Mohammad Reza Mousavi’s Testing Module**.
@@ -65,4 +65,4 @@ A Taxonomy of Real Faults in Hybrid Quantum-Classical Architectures
   <em>Summer School presentation — IT University of Copenhagen</em>
 </p>
 
-
+ -->

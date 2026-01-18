@@ -70,7 +70,7 @@ ninja.data = [{
         title: 'ResearchGate',
         section: 'Socials',
         handler: () => {
-          window.open("https://www.researchgate.net/profile/Avner Bensoussan/", "_blank");
+          window.open("https://www.researchgate.net/profile/Avner-Bensoussan/", "_blank");
         },
       },{
         id: 'social-scholar',

@@ -1,6 +1,6 @@
 ---
 layout: "page"
-permalink: "/teaching/"
+permalink: "/presentations/"
 title: "presentations"
 description: "My latest presentations"
 nav: true

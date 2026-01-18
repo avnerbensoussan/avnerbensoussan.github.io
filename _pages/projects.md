@@ -1,7 +1,7 @@
 ---
 layout: page
 title: hobbies
-permalink: /projects/
+permalink: /hobbies/
 description: Activities beyond research that bring balance, structure, and inspiration to my academic life.
 nav: true
 nav_order: 7

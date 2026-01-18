@@ -1,12 +1,11 @@
 ---
-layout: cv
-permalink: /cv/
-title: cv
+layout: "cv"
+permalink: "/cv/"
+title: "cv"
 nav: true
 nav_order: 5
-cv_pdf: CV.pdf # you can also use external links here
-description: Here you can have an overview of my research and download my academic CV.
+cv_pdf: "CV.pdf" # you can also use external links here
+description: "Here you can have an overview of my research and download my academic CV."
 toc:
-  sidebar: left
+  sidebar: "left"
 ---
-

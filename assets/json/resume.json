@@ -142,13 +142,16 @@
     {
       "name": "A Taxonomy of Real Faults in Hybrid Quantum-Classical Architectures",
       "summary": "Open-source taxonomy of real-world faults in hybrid quantum-classical systems.",
-      "highlights": ["Quantum Software Testing", "Hybrid Architectures"],
+      "highlights": [
+        "Quantum Software Testing",
+        "Hybrid Architectures"
+      ],
       "startDate": "2023-01-01",
       "endDate": "",
       "url": "https://github.com/avnerbensoussan/A-Taxonomy-of-Real-Faults-in-Hybrid-Quantum-Classical-Architectures"
     }
   ],
-    "certificates": [
+  "certificates": [
     {
       "name": "Personal Trainer",
       "date": "2021-08-01",
@@ -162,7 +165,14 @@
       "name": "Programming Languages",
       "level": "",
       "icon": "",
-      "keywords": ["Python", "C", "C++", "R", "Scala", "MATLAB"]
+      "keywords": [
+        "Python",
+        "C",
+        "C++",
+        "R",
+        "Scala",
+        "MATLAB"
+      ]
     },
     {
       "name": "Frameworks & Tools",
@@ -181,11 +191,31 @@
     }
   ],
   "languages": [
-    { "language": "French", "fluency": "Native speaker", "icon": "" },
-    { "language": "Hebrew", "fluency": "Fluent", "icon": "" },
-    { "language": "English", "fluency": "Fluent", "icon": "" },
-    { "language": "Portuguese", "fluency": "Beginner", "icon": "" },
-    { "language": "Arabic", "fluency": "Beginner", "icon": "" }
+    {
+      "language": "French",
+      "fluency": "Native speaker",
+      "icon": ""
+    },
+    {
+      "language": "Hebrew",
+      "fluency": "Fluent",
+      "icon": ""
+    },
+    {
+      "language": "English",
+      "fluency": "Fluent",
+      "icon": ""
+    },
+    {
+      "language": "Portuguese",
+      "fluency": "Beginner",
+      "icon": ""
+    },
+    {
+      "language": "Arabic",
+      "fluency": "Beginner",
+      "icon": ""
+    }
   ],
   "interests": [
     {
@@ -200,7 +230,11 @@
     {
       "name": "Hobbies",
       "icon": "",
-      "keywords": ["Choir", "Guitar", "Triathlon"]
+      "keywords": [
+        "Choir",
+        "Guitar",
+        "Triathlon"
+      ]
     }
   ],
   "references": [

@@ -28,14 +28,14 @@ ninja.data = [{
           description: "My latest presentations",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/teaching/";
+            window.location.href = "/presentations/";
           },
         },{id: "nav-hobbies",
           title: "hobbies",
           description: "Activities beyond research that bring balance, structure, and inspiration to my academic life.",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/projects/";
+            window.location.href = "/hobbies/";
           },
         },{
         id: 'social-cv',

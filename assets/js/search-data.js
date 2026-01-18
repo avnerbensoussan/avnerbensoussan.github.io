@@ -35,7 +35,7 @@ ninja.data = [{
           description: "Activities beyond research that bring balance, structure, and inspiration to my academic life.",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/people/";
+            window.location.href = "/projects/";
           },
         },{
         id: 'social-cv',

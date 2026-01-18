@@ -30,6 +30,13 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/teaching/";
           },
+        },{id: "nav-hobbies",
+          title: "hobbies",
+          description: "Activities beyond research that bring balance, structure, and inspiration to my academic life.",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/people/";
+          },
         },{
         id: 'social-cv',
         title: 'CV',

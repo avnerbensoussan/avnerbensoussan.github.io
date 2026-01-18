@@ -3,7 +3,7 @@ layout: profiles
 permalink: /people/
 title: hobbies
 description: Activities beyond research that bring balance, structure, and inspiration to my academic life.
-nav: true
+nav: false
 nav_order: 7
 ---
 

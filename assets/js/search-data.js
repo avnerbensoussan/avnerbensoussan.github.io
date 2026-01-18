@@ -30,13 +30,6 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/teaching/";
           },
-        },{id: "nav-hobbies",
-          title: "hobbies",
-          description: "Aside from quantum, here are some activities that feed my creativity, and empty my mind.",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/people/";
-          },
         },{
         id: 'social-cv',
         title: 'CV',
@@ -77,7 +70,7 @@ ninja.data = [{
         title: 'ResearchGate',
         section: 'Socials',
         handler: () => {
-          window.open("https://www.researchgate.net/profile/https://www.researchgate.net/profile/Avner-Bensoussan?ev=hdr_xprf/", "_blank");
+          window.open("https://www.researchgate.net/profile/Avner Bensoussan/", "_blank");
         },
       },{
         id: 'social-scholar',

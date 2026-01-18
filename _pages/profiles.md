@@ -3,7 +3,7 @@ layout: profiles
 permalink: /people/
 title: hobbies
 description: Aside from quantum, here are some activities that feed my creativity, and empty my mind.
-nav: true
+nav: false
 nav_order: 7
 ---
 

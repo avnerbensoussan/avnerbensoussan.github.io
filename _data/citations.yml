@@ -1,0 +1,31 @@
+metadata:
+  last_updated: '2026-01-19'
+papers:
+  sK-d-vAAAAAJ:9yKSN-GCB0IC:
+    citations: 4
+    title: 'Synthetic versus real: an analysis of critical scenarios for autonomous vehicle testing'
+    year: '2025'
+  sK-d-vAAAAAJ:IjCSPb-OGe4C:
+    citations: 0
+    title: Toward Live Noise Fingerprinting in Quantum Software Engineering
+    year: '2025'
+  sK-d-vAAAAAJ:UeHWp8X0CEIC:
+    citations: 1
+    title: Shaking Up Quantum Simulators with Fuzzing and Rigour
+    year: '2025'
+  sK-d-vAAAAAJ:qjMakFHDy7sC:
+    citations: 3
+    title: 'AccelerQ: Accelerating Quantum Eigensolvers with Machine Learning on Quantum Simulators'
+    year: '2025'
+  sK-d-vAAAAAJ:u-x6o8ySG0sC:
+    citations: 13
+    title: Exploring LLM-driven explanations for quantum algorithms
+    year: '2024'
+  sK-d-vAAAAAJ:u5HHmVD_uO8C:
+    citations: 6
+    title: Fuzzing-based differential testing for quantum simulators
+    year: '2024'
+  sK-d-vAAAAAJ:zYLM7Y9cAGgC:
+    citations: 3
+    title: A Taxonomy of Real Faults for Hybrid Quantum-Classical Software Architectures
+    year: '2025'

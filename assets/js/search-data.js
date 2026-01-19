@@ -37,8 +37,8 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/hobbies/";
           },
-        },{id: "news-i-m-very-happy-to-share-some-great-news-my-first-journal-paper-and-a-journal-first-one-a-taxonomy-of-real-faults-for-hybrid-quantum-classical-software-architectures-has-been-accepted-at-acm-tosem",
-          title: '🎉 I’m very happy to share some great news! 🎉 My first journal...',
+        },{id: "news-my-first-journal-paper-and-a-journal-first-one-a-taxonomy-of-real-faults-for-hybrid-quantum-classical-software-architectures-has-been-accepted-at-acm-tosem",
+          title: 'My first journal paper — and a journal-first one — “A Taxonomy of...',
           description: "",
           section: "News",},{
         id: 'social-cv',

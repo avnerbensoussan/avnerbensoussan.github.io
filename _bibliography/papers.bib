@@ -19,9 +19,9 @@
   title={AccelerQ: Accelerating Quantum Eigensolvers with Machine Learning on Quantum Simulators},
   author={Bensoussan, A. and Chachkarova, E. and Even-Mendoza, K. and Fortz, S. and Lenihan, C.},
   abstract={
-We present AccelerQ, a framework for automatically tuning quantum eigensolver (QE) implementations using machine learning and search-based optimisation. Rather than redesigning quantum algorithms or manually tweaking existing implementations, AccelerQ treats QE implementations as black-box programs and learns to optimise their hyperparameters to improve accuracy and efficiency. The framework combines search-based techniques and genetic algorithms alongside ML models to efficiently explore the hyperparameter space and avoid local minima.
+We present AccelerQ, a framework for automatically tuning quantum eigensolver (QE) implementations using machine learning and search-based optimisation. Rather than redesigning quantum algorithms or manually tweaking existing implementations, AccelerQ treats QE implementations as black-box programs and learns to optimise their hyperparameters to improve accuracy and efficiency. The framework combines search-based techniques and genetic algorithms alongside ML models to efficiently explore the hyperparameter space and avoid local minima. \\
 
-Our approach leverages two key ideas. First, we train on data obtained from smaller, classically simulable systems. Second, we use program-specific ML models that exploit the persistence of local physical interactions in molecular systems across scales, enabling generalisation to larger systems.
+Our approach leverages two key ideas. First, we train on data obtained from smaller, classically simulable systems. Second, we use program-specific ML models that exploit the persistence of local physical interactions in molecular systems across scales, enabling generalisation to larger systems. \\
 
 We empirically evaluate AccelerQ on two fundamentally different QE implementations: ADAPT-QSCI and QCELS. For each, we train a lightweight XGBoost regressor using data extracted from systems of up to 16 qubits. We then deploy the models to optimise hyperparameters for larger 20-, 24-, and 28-qubit Hamiltonians, where classical simulation becomes impractical. We observe a reduction in error from 5.48% to 5.3% using ML alone and further to 5.05% with genetic algorithms for ADAPT-QSCI, and from 7.5% to 6.5% for QCELS. While some results for intermediate system sizes remain inconclusive, our findings highlight the promise of ML-driven optimisation techniques for quantum programs and suggest future directions for integrating software engineering methods into quantum software stacks.
   },
@@ -34,6 +34,7 @@ We empirically evaluate AccelerQ on two fundamentally different QE implementatio
   doi={10.1145/3763132},
   url={https://dl.acm.org/doi/abs/10.1145/3763132},
   pdf={accelerq.pdf},
+  preview={accelar.png}
 }
 
 
@@ -42,9 +43,9 @@ We empirically evaluate AccelerQ on two fundamentally different QE implementatio
   title={Shaking Up Quantum Simulators with Fuzzing and Rigour},
   author={Klimis, V. and Bensoussan, A. and Chachkarova, E. and Even-Mendoza, K. and Fortz, S.},
   abstract={
-Quantum computing platforms rely on simulators for modelling circuit behaviour prior to hardware execution, where inconsistencies can lead to costly errors. While formal validation methods typically focus on specific compiler components to mitigate state explosion, they often miss critical bugs. Conversely, conventional testing lacks systematic exploration of corner cases and realistic execution scenarios, leading to both false positives and false negatives.
+Quantum computing platforms rely on simulators for modelling circuit behaviour prior to hardware execution, where inconsistencies can lead to costly errors. While formal validation methods typically focus on specific compiler components to mitigate state explosion, they often miss critical bugs. Conversely, conventional testing lacks systematic exploration of corner cases and realistic execution scenarios, leading to both false positives and false negatives. \\
 
-We present FuzzQ, a novel framework that bridges this gap by combining formal methods with structured test generation and fuzzing for quantum simulators. FuzzQ employs differential benchmarking, mutation testing, and invariant checking, and is built on an Alloy-based formal model of QASM 3.0. This model enables automated analysis and the generation of structurally diverse, constraint-guided quantum circuits with guaranteed properties.
+We present FuzzQ, a novel framework that bridges this gap by combining formal methods with structured test generation and fuzzing for quantum simulators. FuzzQ employs differential benchmarking, mutation testing, and invariant checking, and is built on an Alloy-based formal model of QASM 3.0. This model enables automated analysis and the generation of structurally diverse, constraint-guided quantum circuits with guaranteed properties. \\
 
 We introduce several test oracles to validate both the formal model and simulator correctness, including invariant-based checks, statistical distribution tests, and a novel cross-simulator unitary consistency check that verifies functional equivalence modulo global phase. Evaluating FuzzQ on Qiskit and Cirq, we execute over 800,000 quantum circuits and uncover eight simulator bugs, six of which were previously undocumented. We also outline future extensions to support mixed-state simulations under realistic noise models.
   },
@@ -57,6 +58,7 @@ We introduce several test oracles to validate both the formal model and simulato
   doi={10.1145/3763100},
   url={https://dl.acm.org/doi/abs/10.1145/3763100},
   pdf={shaking.pdf},
+  preview={shaking.png}
 }
 
 @inproceedings{blackwell2024fuzzing,

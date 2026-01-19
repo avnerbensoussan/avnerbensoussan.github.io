@@ -3,9 +3,11 @@
   bibtex_show={true},
   title={A Taxonomy of Real Faults for Hybrid Quantum-Classical Software Architectures},
   author={Bensoussan, A. and Jahangirova, G. and Mousavi, M.},
+  abstract={With the popularity of Hybrid Quantum-Classical architectures, particularly noisy intermediate-scale quantum (NISQ) architectures in the gate-based quantum computing paradigm, comes the need for quality assurance methods tailored to their specific faults. In this study, we propose a taxonomy of faults in gate-based Hybrid Quantum-Classical architectures accompanied by a dataset of real faults in the identified categories. To achieve this, we empirically analysed open-source repositories for fixed faults. We analysed over 5000 closed issues on GitHub and pre-selected 529 of them based on rigorously defined inclusion criteria. We selected 133 faults that we labelled around symptoms and the origin of the faults. We cross-validated the classification and labels assigned to every fault between two of the authors. As a result, we introduced a taxonomy of real faults in gate-based Hybrid Quantum-Classical architectures. Subsequently, we validated the taxonomy through interviews conducted with eleven developers. The taxonomy was dynamically updated throughout the cross-validation and interview processes. The final version was validated and discussed through surveys conducted with an independent group of domain experts to ensure its relevance and to gain further insights.},
   journal={ACM Transactions on Software Engineering and Methodology},
   year={2025},
   publisher={Association for Computing Machinery},
+  doi={10.1145/3788677},
   url={https://kclpure.kcl.ac.uk/portal/en/publications/a-taxonomy-of-real-faults-for-hybrid-quantum-classical-software-a/},         
   html={https://kclpure.kcl.ac.uk/portal/en/publications/a-taxonomy-of-real-faults-for-hybrid-quantum-classical-software-a/},           
   annotation={},
@@ -18,15 +20,18 @@
   bibtex_show={true},
   title={AccelerQ: Accelerating Quantum Eigensolvers with Machine Learning on Quantum Simulators},
   author={Bensoussan, A. and Chachkarova, E. and Even-Mendoza, K. and Fortz, S. and Lenihan, C.},
+  abstract={We present AccelerQ, a framework for automatically tuning quantum eigensolver (QE) implementations–these are quantum programs implementing a specific QE algorithm–using machine learning and search-based optimisation. Rather than redesigning quantum algorithms or manually tweaking the code of an already existing implementation, AccelerQ treats QE implementations as black-box programs and learns to optimise their hyperparameters to improve accuracy and efficiency by incorporating search-based techniques and genetic algorithms (GA) alongside ML models to efficiently explore the hyperparameter space of QE implementations and avoid local minima. Our approach leverages two ideas: 1) train on data from smaller, classically simulable systems, and 2) use program-specific ML models, exploiting the fact that local physical interactions in molecular systems persist across scales, supporting generalisation to larger systems. We present an empirical evaluation of AccelerQ on two fundamentally different QE implementations: ADAPT-QSCI and QCELS. For each, we trained a QE predictor model, a lightweight XGBoost Python regressor, using data extracted classically from systems of up to 16 qubits. We deployed the model to optimise hyperparameters for executions on larger systems of 20-, 24-, and 28-qubit Hamiltonians, where direct classical simulation becomes impractical. We observed a reduction in error from 5.48% to 5.3% with only the ML model and further to 5.05% with GA for ADAPT-QSCI, and from 7.5% to 6.5%, with no additional gain with GA for QCELS. Given inconclusive results for some 20- and 24-qubit systems, we recommend further analysis of training data concerning Hamiltonian characteristics. Nonetheless, our results highlight the potential of ML and optimisation techniques for quantum programs and suggest promising directions for integrating software engineering methods into quantum software stacks.},
   journal={Proceedings of the ACM on Programming Languages},
   volume={9},
   number={OOPSLA2},
   pages={2279--2309},
   year={2025},
   publisher={Association for Computing Machinery},
+  doi={10.1145/3763132},
   url={https://dl.acm.org/doi/abs/10.1145/3763132},      
   html={https://dl.acm.org/doi/abs/10.1145/3763132},     
-  annotation={}
+  annotation={},
+  pdf={accelerq.pdf},
 }
 
 @article{klimis2025shaking,
@@ -34,14 +39,17 @@
   bibtex_show={true},
   title={Shaking Up Quantum Simulators with Fuzzing and Rigour},
   author={Klimis, V. and Bensoussan, A. and Chachkarova, E. and Even-Mendoza, K. and Fortz, S.},
+  abstract={Quantum computing platforms rely on simulators for modelling circuit behaviour prior to hardware execution, where inconsistencies can lead to costly errors. While existing formal validation methods typically target specific compiler components to manage state explosion, they often miss critical bugs. Meanwhile, conventional testing lacks systematic exploration of corner cases and realistic execution scenarios, resulting in both false positives and negatives. We present FuzzQ, a novel framework that bridges this gap by combining formal methods with structured test generation and fuzzing for quantum simulators. Our approach employs differential benchmarking complemented by mutation testing and invariant checking. At its core, FuzzQ utilises our Alloy-based formal model of QASM 3.0, which encodes the semantics of quantum circuits to enable automated analysis and to generate structurally diverse, constraint-guided quantum circuits with guaranteed properties. We introduce several test oracles to assess both Alloy’s modelling of QASM 3.0 and simulator correctness, including invariant-based checks, statistical distribution tests, and a novel cross-simulator unitary consistency check that verifies functional equivalence modulo global phase, revealing discrepancies that standard statevector comparisons fail to detect in cross-platform differential testing. We evaluate FuzzQ on both Qiskit and Cirq, demonstrating its platform-agnostic effectiveness. By executing over 800,000 quantum circuits to completion, we assess throughput, code and circuit coverage, and simulator performance metrics, including sensitivity, correctness, and memory overhead. Our analysis revealed eight simulator bugs, six previously undocumented. We also outline a path for extending the framework to support mixed-state simulations under realistic noise models.},
   journal={Proceedings of the ACM on Programming Languages},
   volume={9},
   number={OOPSLA2},
   pages={1400--1428},
   year={2025},
   publisher={Association for Computing Machinery},
+  doi={10.1145/3763100},
   url={https://dl.acm.org/doi/abs/10.1145/3763100},             
-  html={https://dl.acm.org/doi/abs/10.1145/3763100},            
+  html={https://dl.acm.org/doi/abs/10.1145/3763100},  
+  pdf={shaking.pdf},          
   annotation={}
 }
 
@@ -50,12 +58,15 @@
   bibtex_show={true},
   title={Fuzzing-based Differential Testing for Quantum Simulators},
   author={Blackwell, D. and Petke, J. and Cao, Y. and Bensoussan, A.},
+  abstract={Quantum programs are hard to develop and test due to their probabilistic nature and the restricted availability of quantum computers. Quantum simulators have thus been introduced to help software developers. There are, however, no formal proofs that these simulators behave in exactly the way that real quantum hardware does, which could lead to errors in their implementation. Here we propose to use a search-based technique, grammar-based fuzzing, to generate syntactically valid quantum programs, and use differential testing to search for inconsistent behaviour between selected quantum simulators. We tested our approach on three simulators: Braket, Quantastica, and Qiskit. Overall, we generated and ran over 400k testcases, 2,327 of which found new coverage, and 292 of which caused crashes, hangs or divergent behaviour. Our analysis revealed 4 classes of bugs, including a bug in the OpenQASM 3 stdgates.inc standard gates library, affecting all the simulators. All but one of the bugs reported to the developers have been already fixed by them, while the remaining bug has been acknowledged as a true bug.},
   booktitle={International Symposium on Search Based Software Engineering},
   pages={63--69},
   year={2024},
   publisher={Springer},
+  doi={10.1007/978-3-031-64573-0_6},
   url={https://link.springer.com/chapter/10.1007/978-3-031-64573-0_6},  
   html={https://link.springer.com/chapter/10.1007/978-3-031-64573-0_6},
+  pdf={fuzzing.pdf},
   annotation={}
 }
 
@@ -77,14 +88,17 @@
   bibtex_show={true},
   title={Synthetic versus Real: An Analysis of Critical Scenarios for Autonomous Vehicle Testing},
   author={Song, Q. and Bensoussan, A. and Mousavi, M. R.},
+  abstract={With the emergence of autonomous vehicles comes the requirement of adequate and rigorous testing, particularly in critical scenarios that  are both challenging and potentially hazardous. Generating synthetic simulation-based critical scenarios for testing autonomous vehicles has therefore received considerable interest, yet it is unclear how such scenarios relate to the actual crash or near-crash scenarios  in the real world. Consequently, their realism is unknown. In this paper, we define realism as the degree of similarity of synthetic critical scenarios to real-world critical scenarios. We propose a methodology to measure realism using two metrics, namely attribute distribution and Euclidean distance. The methodology extracts various attributes from synthetic and realistic critical scenario datasets and performs a set of statistical tests to compare their distributions and distances. As a proof of concept for our methodology, we compare synthetic collision scenarios from DeepScenario against realistic autonomous vehicle collisions collected by the Department of Motor Vehicles in California, to analyse how well DeepScenario synthetic collision scenarios are aligned with real autonomous vehicle collisions recorded in California. We focus on five key attributes that are extractable from both datasets, and analyse the attribution distribution and distance between scenarios in the two datasets. Further, we derive recommendations to improve the realism of synthetic scenarios based on our analysis. Our study of realism provides a framework that can be replicated and extended for other dataset both concerning real-world and synthetically-generated scenarios.},
   journal={Automated Software Engineering},
   volume={32},
   number={2},
   pages={37},
   year={2025},
   publisher={Springer},
+  doi={10.1007/s10515-025-00499-4},
   url={https://link.springer.com/article/10.1007/s10515-025-00499-4},  
   html={https://link.springer.com/article/10.1007/s10515-025-00499-4},
+  pdf={AV.pdf},
   annotation={}
 }
 
@@ -93,10 +107,13 @@
   bibtex_show={true},
   title={Exploring LLM-Driven Explanations for Quantum Algorithms},
   author={d'Aloisio, G. and Fortz, S. and Hanna, C. and Fortunato, D. and Bensoussan, A.},
+  abstract={Background: Quantum computing is a rapidly growing new programming paradigm that brings significant changes to the design and implementation of algorithms. Understanding quantum algorithms requires knowledge of physics and mathematics, which can be challenging for software developers. Aims: In this work, we provide a first analysis of how LLMs can support developers’ understanding of quantum code. Method: We empirically analyse and compare the quality of explanations provided by three widely adopted LLMs (Gpt3.5, Llama2, and Tinyllama) using two different human-written prompt styles for seven state-of-the-art quantum algorithms. We also analyse how consistent LLM explanations are over multiple rounds and how LLMs can improve existing descriptions of quantum algorithms. Results: Llama2 provides the highest quality explanations from scratch, while Gpt3.5 emerged as the LLM best suited to improve existing explanations. In addition, we show that adding a small amount of context to the prompt significantly improves the quality of explanations. Finally, we observe how explanations are qualitatively and syntactically consistent over multiple rounds. Conclusions: This work highlights promising results, and opens challenges for future research in the field of LLMs for quantum code explanation. Future work includes refining the methods through prompt optimisation and parsing of quantum code explanations, as well as carrying out a systematic assessment of the quality of explanations.},
   booktitle={Proceedings of the 18th ACM/IEEE International Symposium on Empirical Software Engineering},
   year={2024},
   publisher={Association for Computing Machinery},
+  doi={10.1145/3674805.3690753},
   url={https://dl.acm.org/doi/abs/10.1145/3674805.3690753}, 
   html={https://dl.acm.org/doi/abs/10.1145/3674805.3690753},
+  pdf={llm.pdf},
   annotation={}
 }

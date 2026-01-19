@@ -4,9 +4,8 @@ permalink: /blog/
 title: blog
 nav: false
 nav_order: 1
-search_exclude: true
 pagination:
-  enabled: false
+  enabled: true
   collection: posts
   permalink: /page/:num/
   per_page: 5
@@ -17,7 +16,6 @@ pagination:
     after: 3 # The number of links after the current page
 ---
 
-<!--
 <div class="post">
 
 {% assign blog_name_size = site.blog_name | size %}
@@ -195,4 +193,4 @@ pagination:
 {% include pagination.liquid %}
 {% endif %}
 
-</div> -->
+</div>

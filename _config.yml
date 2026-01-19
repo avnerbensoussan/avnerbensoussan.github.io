@@ -126,16 +126,18 @@ disqus_shortname: al-folio # put your disqus shortname
 # you can display them in your blog by adding a link to the RSS feed.
 # Optional: Set default categories and tags for posts from each source.
 external_sources:
-  - name: medium.com
-    rss_url: https://medium.com/@al-folio/feed
-    categories: [external-posts]
-    tags: [medium]
-  - name: Google Blog
+  - name: LinkedIn
     posts:
-      - url: https://blog.google/technology/ai/google-gemini-update-flash-ai-assistant-io-2024/
-        published_date: 2024-05-14
+      - url: https://www.linkedin.com/posts/avner-bensoussan-a6494322b_what-a-way-to-finish-the-year-had-a-activity-7407437081334927361-3_1d?utm_source=share&utm_medium=member_desktop&rcm=ACoAADmgOiwBnQQLJM15lDf6uuGWFWS0OPttFmY
+        published_date: 2025-12-18
     categories: [external-posts]
-    tags: [google]
+    tags: [LinkedIn]
+  - name: LinkedIn
+    posts:
+      - url: https://www.linkedin.com/posts/avner-bensoussan-a6494322b_first-academic-event-in-france-since-ugcPost-7398646456330645504-iCSD?utm_source=share&utm_medium=member_desktop&rcm=ACoAADmgOiwBnQQLJM15lDf6uuGWFWS0OPttFmY
+        published_date: 2025-11-28
+    categories: [external-posts]
+    tags: [LinkedIn]
 
 # -----------------------------------------------------------------------------
 # Newsletter

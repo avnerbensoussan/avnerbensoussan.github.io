@@ -36,10 +36,7 @@
       "url": "https://www.kcl.ac.uk/informatics",
       "startDate": "2023-10-01",
       "summary": "Research on testing methods for hybrid quantum-classical architectures, defining novel metrics for quantum software testability.",
-      "highlights": [
-        "Defined the Quantum Squeeziness metric",
-        "Developed a taxonomy of real faults in hybrid systems"
-      ]
+      "highlights": ["Defined the Quantum Squeeziness metric", "Developed a taxonomy of real faults in hybrid systems"]
     },
     {
       "name": "King's College London",
@@ -48,10 +45,7 @@
       "startDate": "2022-10-01",
       "endDate": "2023-09-01",
       "summary": "Research on testing approaches for autonomous vehicles using Carla and ROS.",
-      "highlights": [
-        "Designed experiments to evaluate realism in simulation environments",
-        "Publication in Automated Software Engineering"
-      ]
+      "highlights": ["Designed experiments to evaluate realism in simulation environments", "Publication in Automated Software Engineering"]
     }
   ],
   "volunteer": [],
@@ -73,9 +67,7 @@
       "studyType": "BSc",
       "startDate": "2020-09-01",
       "endDate": "2023-06-01",
-      "courses": [
-        "Final Project: Testing the Ethical Decision-Making of Autonomous Vehicles"
-      ]
+      "courses": ["Final Project: Testing the Ethical Decision-Making of Autonomous Vehicles"]
     }
   ],
   "awards": [
@@ -142,10 +134,7 @@
     {
       "name": "A Taxonomy of Real Faults in Hybrid Quantum-Classical Architectures",
       "summary": "Open-source taxonomy of real-world faults in hybrid quantum-classical systems.",
-      "highlights": [
-        "Quantum Software Testing",
-        "Hybrid Architectures"
-      ],
+      "highlights": ["Quantum Software Testing", "Hybrid Architectures"],
       "startDate": "2023-01-01",
       "endDate": "",
       "url": "https://github.com/avnerbensoussan/A-Taxonomy-of-Real-Faults-in-Hybrid-Quantum-Classical-Architectures"
@@ -165,29 +154,13 @@
       "name": "Programming Languages",
       "level": "",
       "icon": "",
-      "keywords": [
-        "Python",
-        "C",
-        "C++",
-        "R",
-        "Scala",
-        "MATLAB"
-      ]
+      "keywords": ["Python", "C", "C++", "R", "Scala", "MATLAB"]
     },
     {
       "name": "Frameworks & Tools",
       "level": "",
       "icon": "",
-      "keywords": [
-        "Qiskit",
-        "Cirq",
-        "Pennylane",
-        "Tensorflow Quantum",
-        "ROS",
-        "Carla",
-        "Git",
-        "LaTeX"
-      ]
+      "keywords": ["Qiskit", "Cirq", "Pennylane", "Tensorflow Quantum", "ROS", "Carla", "Git", "LaTeX"]
     }
   ],
   "languages": [
@@ -221,20 +194,12 @@
     {
       "name": "Quantum Computing",
       "icon": "",
-      "keywords": [
-        "Quantum Software Testability",
-        "Formal Verification",
-        "Hybrid Quantum-Classical Architectures"
-      ]
+      "keywords": ["Quantum Software Testability", "Formal Verification", "Hybrid Quantum-Classical Architectures"]
     },
     {
       "name": "Hobbies",
       "icon": "",
-      "keywords": [
-        "Choir",
-        "Guitar",
-        "Triathlon"
-      ]
+      "keywords": ["Choir", "Guitar", "Triathlon"]
     }
   ],
   "references": [

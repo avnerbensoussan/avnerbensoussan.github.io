@@ -28,6 +28,7 @@ I had the honour to be invited as a **guest lecturer at King’s College London*
 I presented **two collaborative research papers at OOPSLA 2025 in Singapore**, focusing on testing, verification and optimisation techniques for quantum and hybrid systems.
 
 **Presented papers:**
+
 - <a href="https://dl.acm.org/doi/abs/10.1145/3763132" target="_blank">Accelerating Quantum Eigensolver Algorithms with Machine Learning</a>
 - <a href="https://dl.acm.org/doi/abs/10.1145/3763100" target="_blank">Shaking Up Quantum Simulators with Fuzzing and Rigour</a>
 

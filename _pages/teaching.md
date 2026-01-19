@@ -4,7 +4,7 @@ permalink: "/presentations/"
 title: "presentations"
 description: "My latest presentations"
 nav: true
-nav_order: 6
+nav_order: 4
 ---
 
 Below are selected presentations and invited talks given in academic and research venues.

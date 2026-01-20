@@ -162,12 +162,12 @@ external_sources:
         published_date: 2025-01-28
     categories: [external-posts]
     tags: [LinkedIn]
-  - name: LinkedIn
-    posts:
-      - url: https://www.linkedin.com/posts/avner-bensoussan-a6494322b_what-a-fantastic-week-at-the-pics-2024-ugcPost-7254049426837499904-SCsF?utm_source=share&utm_medium=member_desktop&rcm=ACoAADmgOiwBnQQLJM15lDf6uuGWFWS0OPttFmY
-        published_date: 2024-11-12
-    categories: [external-posts]
-    tags: [LinkedIn]
+  # - name: LinkedIn
+  #   posts:
+  #     - url: https://www.linkedin.com/posts/avner-bensoussan-a6494322b_what-a-fantastic-week-at-the-pics-2024-ugcPost-7254049426837499904-SCsF?utm_source=share&utm_medium=member_desktop&rcm=ACoAADmgOiwBnQQLJM15lDf6uuGWFWS0OPttFmY
+  #       published_date: 2024-11-12
+  #   categories: [external-posts]
+  #   tags: [LinkedIn]
   - name: LinkedIn
     posts:
       - url: https://www.linkedin.com/posts/avner-bensoussan-a6494322b_feeling-inspired-after-attending-the-second-ugcPost-7241361610575876096-bCfJ?utm_source=share&utm_medium=member_desktop&rcm=ACoAADmgOiwBnQQLJM15lDf6uuGWFWS0OPttFmY

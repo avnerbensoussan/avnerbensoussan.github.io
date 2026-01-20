@@ -21,7 +21,7 @@ ninja.data = [{
           description: "Here you can have an overview of my research and download my academic CV.",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/CV/";
+            window.location.href = "/cv/";
           },
         },{id: "nav-presentations",
           title: "presentations",

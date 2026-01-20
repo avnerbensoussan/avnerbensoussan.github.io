@@ -17,11 +17,11 @@ ninja.data = [{
             window.location.href = "/publications/";
           },
         },{id: "nav-cv",
-          title: "cv",
+          title: "CV",
           description: "Here you can have an overview of my research and download my academic CV.",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/cv/";
+            window.location.href = "/CV/";
           },
         },{id: "nav-presentations",
           title: "presentations",
@@ -37,7 +37,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/hobbies/";
           },
-        },{id: "post-what-a-way-to-finish-the-year-had-a-lot-of-fun-guest-lecturing-in-prof-mohammad-reza-mousavi-s-testing-module-super-exciting-to-present-my-work-in-depth-and-tease-some-very-fresh-results-that-avner-bensoussan",
+        },{id: "post-a-taxonomy-of-real-faults-for-hybrid-quantum-classical-software-architectures-acm-transactions-on-software-engineering-and-methodology-avner-bensoussan",
+        
+          title: 'A Taxonomy of Real Faults for Hybrid Quantum-Classical Software Architectures | ACM Transactions... <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
+        
+        description: "🎉 Excited to share that my first journal paper has been accepted at ACM TOSEM! 🎉🌱 This paper is more than a publication—it reflects how much I’ve learned about research and communication along the way.Good research is more than resultsWhen I started this project—the first of my PhD—I thought success meant getting the methods right and producing solid results. That alone took about a year. What I didn’t anticipate was that learning how to explain why those results mattered would take just as long.I presented this work in very different contexts: in Oxford to quantum physicists and chemists, in Copenhagen to non-quantum software researchers, and in Montpellier to quantum algorithms experts. In each community, a few people with very different backgrounds paused to bridge their perspective with this work. That led to rich discussions. The most fascinating part was aligning our vocabularies and finding shared ground. After each conference, I reshaped the paper with these new perspectives in mind.💭 At one conference, I met a professor I deeply admire. We jumped straight into a technical discussion. She assumed I had a similar background—and I didn’t pause to explain that while our areas are related, we approach problems differently. She eventually walked away saying my work felt neither theoretical nor practical. That moment stuck with me. It was frustrating, unsettling, and honestly quite disorienting, but it now guides how I explain results.Quantum software research is about communicationThe same challenge appeared during the review process. No reviewer questioned the methodology or results. Instead, feedback focused on framing, context, and narrative. Comparing the first version with the current one—shaped by reviews and discussions—the difference is massive.🔗 I realized this isn’t a secondary skill. In interdisciplinary fields like quantum computing, communication is part of the research itself. This is especially true for quantum software research: still underexplored, yet crucial for moving from lab-scale demonstrations to industrial pipelines and real-world use cases. Building that bridge isn’t just about better hardware or algorithms—it’s about elegant software that smartly connects the two, layers of abstraction, fault understanding, and, above all, a shared language across communities.Interdisciplinary collaboration drives innovationWorking across quantum physics, chemistry, and software engineering taught me that breakthroughs often happen at the intersections. When experts from different fields try to connect perspectives, new questions arise, assumptions are challenged, and insights emerge that wouldn’t have been possible within a single discipline. Each discussion shaped the paper and, more importantly, shaped how I think as a researcher.🙏 Grateful to my supervisors and co-authors for their support. Excited—and a bit wiser—to enter my final PhD year. There’s a lot coming!https://lnkd.in/enDPsETa",
+        section: "Posts",
+        handler: () => {
+          
+            window.open("https://www.linkedin.com/posts/avner-bensoussan-a6494322b_excited-to-share-that-my-first-journal-share-7419361816222531584-XCAy?utm_source=share&utm_medium=member_desktop&rcm=ACoAADmgOiwBnQQLJM15lDf6uuGWFWS0OPttFmY", "_blank");
+          
+        },
+      },{id: "post-what-a-way-to-finish-the-year-had-a-lot-of-fun-guest-lecturing-in-prof-mohammad-reza-mousavi-s-testing-module-super-exciting-to-present-my-work-in-depth-and-tease-some-very-fresh-results-that-avner-bensoussan",
         
           title: 'What a way to finish the year!! 🎉 Had a lot of fun... <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
         

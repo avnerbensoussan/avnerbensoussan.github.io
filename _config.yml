@@ -11,7 +11,7 @@ description: ""
 footer_text: ""
 keywords: "Hybrid Quantum-Classical Architectures, Quantum Software Testability, Fault Understanding, Quantum Information Theory"
 lang: en
-icon: ⚛️
+icon: "•A.B•"
 
 url: https://avnerbensoussan.github.io
 baseurl:
@@ -126,12 +126,12 @@ disqus_shortname: Posts # put your disqus shortname
 # you can display them in your blog by adding a link to the RSS feed.
 # Optional: Set default categories and tags for posts from each source.
 external_sources:
-  # - name: Reflections on Academic Publication Process, TOSEM journal-first publication 2026
-  #   posts:
-  #     - url:
-  #       published_date: 2026-01-20
-  #   categories: [external-posts]
-  #   tags: [LinkedIn]
+  - name: Reflections on Academic Publication Process, TOSEM journal-first publication 2026
+    posts:
+      - url: https://www.linkedin.com/posts/avner-bensoussan-a6494322b_excited-to-share-that-my-first-journal-share-7419361816222531584-XCAy?utm_source=share&utm_medium=member_desktop&rcm=ACoAADmgOiwBnQQLJM15lDf6uuGWFWS0OPttFmY
+        published_date: 2026-01-20
+    categories: [external-posts]
+    tags: [LinkedIn]
   - name: Guest Lecture at King's College London 2025
     posts:
       - url: https://www.linkedin.com/posts/avner-bensoussan-a6494322b_what-a-way-to-finish-the-year-had-a-activity-7407437081334927361-3_1d?utm_source=share&utm_medium=member_desktop&rcm=ACoAADmgOiwBnQQLJM15lDf6uuGWFWS0OPttFmY

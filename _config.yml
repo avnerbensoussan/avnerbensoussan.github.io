@@ -52,7 +52,7 @@ navbar_fixed: true
 footer_fixed: true
 search_enabled: true
 socials_in_search: true
-posts_in_search: false
+posts_in_search: true
 bib_search: true
 
 # Dimensions
@@ -126,6 +126,12 @@ disqus_shortname: Posts # put your disqus shortname
 # you can display them in your blog by adding a link to the RSS feed.
 # Optional: Set default categories and tags for posts from each source.
 external_sources:
+  # - name: Reflections on Academic Publication Process, TOSEM journal-first publication 2026
+  #   posts:
+  #     - url:
+  #       published_date: 2026-01-20
+  #   categories: [external-posts]
+  #   tags: [LinkedIn]
   - name: Guest Lecture at King's College London 2025
     posts:
       - url: https://www.linkedin.com/posts/avner-bensoussan-a6494322b_what-a-way-to-finish-the-year-had-a-activity-7407437081334927361-3_1d?utm_source=share&utm_medium=member_desktop&rcm=ACoAADmgOiwBnQQLJM15lDf6uuGWFWS0OPttFmY

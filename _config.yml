@@ -126,55 +126,55 @@ disqus_shortname: Posts # put your disqus shortname
 # you can display them in your blog by adding a link to the RSS feed.
 # Optional: Set default categories and tags for posts from each source.
 external_sources:
-  - name: LinkedIn
+  - name: Guest Lecture at King's College London
     posts:
       - url: https://www.linkedin.com/posts/avner-bensoussan-a6494322b_what-a-way-to-finish-the-year-had-a-activity-7407437081334927361-3_1d?utm_source=share&utm_medium=member_desktop&rcm=ACoAADmgOiwBnQQLJM15lDf6uuGWFWS0OPttFmY
         published_date: 2025-12-18
     categories: [external-posts]
     tags: [LinkedIn]
-  - name: LinkedIn
+  - name: AQAM
     posts:
       - url: https://www.linkedin.com/posts/avner-bensoussan-a6494322b_first-academic-event-in-france-since-ugcPost-7398646456330645504-iCSD?utm_source=share&utm_medium=member_desktop&rcm=ACoAADmgOiwBnQQLJM15lDf6uuGWFWS0OPttFmY
         published_date: 2025-11-28
     categories: [external-posts]
     tags: [LinkedIn]
-  - name: LinkedIn
+  - name: OOPSLA
     posts:
       - url: https://www.linkedin.com/posts/avner-bensoussan-a6494322b_what-an-amazing-week-it-was-participating-ugcPost-7386723040807624704-RdEo?utm_source=share&utm_medium=member_desktop&rcm=ACoAADmgOiwBnQQLJM15lDf6uuGWFWS0OPttFmY
         published_date: 2025-10-30
     categories: [external-posts]
     tags: [LinkedIn]
-  - name: LinkedIn
+  - name: Accepted OOPSLA 2025
     posts:
       - url: https://www.linkedin.com/posts/avner-bensoussan-a6494322b_accelerq-accelerating-quantum-eigensolvers-share-7368572630318223361-XQ66?utm_source=share&utm_medium=member_desktop&rcm=ACoAADmgOiwBnQQLJM15lDf6uuGWFWS0OPttFmY
         published_date: 2025-09-15
     categories: [external-posts]
     tags: [LinkedIn]
-  - name: LinkedIn
+  - name: King's Quantum 2025
     posts:
       - url: https://www.linkedin.com/posts/avner-bensoussan-a6494322b_had-an-amazing-time-at-the-kings-quantum-ugcPost-7317937574767988736-PFc2?utm_source=share&utm_medium=member_desktop&rcm=ACoAADmgOiwBnQQLJM15lDf6uuGWFWS0OPttFmY
         published_date: 2025-04-28
     categories: [external-posts]
     tags: [LinkedIn]
-  - name: LinkedIn
+  - name: Upgrade Pass
     posts:
       - url: https://www.linkedin.com/posts/avner-bensoussan-a6494322b_thrilled-to-share-that-i-have-successfully-ugcPost-7274741056041095168-qhHP?utm_source=share&utm_medium=member_desktop&rcm=ACoAADmgOiwBnQQLJM15lDf6uuGWFWS0OPttFmY
         published_date: 2025-01-28
     categories: [external-posts]
     tags: [LinkedIn]
-  # - name: LinkedIn
-  #   posts:
-  #     - url: https://www.linkedin.com/posts/avner-bensoussan-a6494322b_what-a-fantastic-week-at-the-pics-2024-ugcPost-7254049426837499904-SCsF?utm_source=share&utm_medium=member_desktop&rcm=ACoAADmgOiwBnQQLJM15lDf6uuGWFWS0OPttFmY
-  #       published_date: 2024-11-12
-  #   categories: [external-posts]
-  #   tags: [LinkedIn]
-  - name: LinkedIn
+  - name: PICS 2024
+    posts:
+      - url: https://www.linkedin.com/posts/avner-bensoussan-a6494322b_what-a-fantastic-week-at-the-pics-2024-ugcPost-7254049426837499904-SCsF?utm_source=share&utm_medium=member_desktop&rcm=ACoAADmgOiwBnQQLJM15lDf6uuGWFWS0OPttFmY
+        published_date: 2024-11-12
+    categories: [external-posts]
+    tags: [LinkedIn]
+  - name: RoarQ 2024
     posts:
       - url: https://www.linkedin.com/posts/avner-bensoussan-a6494322b_feeling-inspired-after-attending-the-second-ugcPost-7241361610575876096-bCfJ?utm_source=share&utm_medium=member_desktop&rcm=ACoAADmgOiwBnQQLJM15lDf6uuGWFWS0OPttFmY
         published_date: 2024-09-30
     categories: [external-posts]
     tags: [LinkedIn]
-  - name: LinkedIn
+  - name: SEEQA 2024
     posts:
       - url: https://www.linkedin.com/posts/avner-bensoussan-a6494322b_reflections-on-an-amazing-conference-ugcPost-7238869707213209600-1tlV?utm_source=share&utm_medium=member_desktop&rcm=ACoAADmgOiwBnQQLJM15lDf6uuGWFWS0OPttFmY
         published_date: 2024-08-01
@@ -275,6 +275,7 @@ plugins:
   - jekyll-toc
   - jekyll-twitter-plugin
   - jemoji
+  - jekyll-sitemap
 
 # Sitemap settings
 defaults:

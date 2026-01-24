@@ -20,7 +20,7 @@
       {
         "network": "Google Scholar",
         "username": "Avner Bensoussan",
-        "url": "https://scholar.google.com/citations?user=sK-d-vAAAAAJ&hl=fr"
+        "url": "https://scholar.google.com/citations?user=YOUR_ID&user=sK-d-vAAAAAJ"
       },
       {
         "network": "ORCID",
@@ -139,7 +139,7 @@
       "name": "King’s Quantum",
       "summary": "King’s College London research group focusing on quantum computing and quantum software development.",
       "highlights": ["Hybrid Quantum-Classical Systems", "Quantum Software Verification"],
-      "startDate": "2023-10-01",
+      "startDate": "2024-10-01",
       "endDate": "",
       "url": "https://www.kcl.ac.uk/nmes/research/kings-quantum"
     },

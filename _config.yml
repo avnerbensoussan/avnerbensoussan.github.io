@@ -126,7 +126,7 @@ disqus_shortname: Posts # put your disqus shortname
 # you can display them in your blog by adding a link to the RSS feed.
 # Optional: Set default categories and tags for posts from each source.
 external_sources:
-  - name: Reflections on TOSEM Publication Journey
+  - name: Reflections on ACM TOSEM Publication Journey
     posts:
       - url: https://www.linkedin.com/posts/avner-bensoussan-a6494322b_excited-to-share-that-my-first-journal-share-7419361816222531584-XCAy?utm_source=share&utm_medium=member_desktop&rcm=ACoAADmgOiwBnQQLJM15lDf6uuGWFWS0OPttFmY
         published_date: 2026-01-20

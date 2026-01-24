@@ -58,8 +58,8 @@ I presented **two collaborative research papers at OOPSLA 2025 in Singapore**, f
 
 ## 🏫 Summer School Presentation — ITU Copenhagen
 
-I presented my work on **faults in hybrid quantum-classical architectures** at the **PICS Summer School** hosted by the **IT University of Copenhagen**.  
-The presentation was based on our taxonomy of real faults observed in quantum-classical systems.
+I presented my work on **faults in Hybrid Quantum-Classical architectures** at the **PICS Summer School** hosted by the **IT University of Copenhagen**.  
+The presentation was based on our taxonomy of real faults observed in Hybrid Quantum-Classical architectures.
 
 **Project repository:**  
 <a href="https://github.com/avnerbensoussan/A-Taxonomy-of-Real-Faults-in-Hybrid-Quantum-Classical-Architectures" target="_blank">

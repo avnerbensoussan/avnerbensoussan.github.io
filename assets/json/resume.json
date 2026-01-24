@@ -5,7 +5,7 @@
     "image": "",
     "email": "avner.bensoussan@kcl.ac.uk",
     "url": "https://kclpure.kcl.ac.uk/portal/en/persons/avner-bensoussan/",
-    "summary": "PhD candidate in Computer Science working on quantum software testing and verification, with a focus on faults in hybrid quantum–classical architectures and information-theoretic approaches to software testability.",
+    "summary": "PhD candidate in Computer Science working on quantum software testing and verification, with a focus on faults in Hybrid Quantum–Classical architectures and information-theoretic approaches to software testability.",
     "location": {
       "city": "London",
       "countryCode": "UK",
@@ -35,10 +35,10 @@
       "position": "PhD Candidate, Department of Informatics",
       "url": "https://www.kcl.ac.uk/informatics",
       "startDate": "2023-10-01",
-      "summary": "PhD research on testing and verification of hybrid quantum–classical software systems. Member of King’s Quantum and the Software Systems (SSY) research group, contributing to the RoarQ (Robust and Reliable Quantum Computing) collaboration and the VSL-Q project.",
+      "summary": "PhD research on testing and verification of Hybrid Quantum–Classical software architectures. Member of King’s Quantum and the Software Systems (SSY) research group, contributing to the RoarQ (Robust and Reliable Quantum Computing) collaboration and the VSL-Q project.",
       "highlights": [
         "Defined the Quantum Squeeziness information-theoretic testability metric",
-        "Developed a published taxonomy of real faults in hybrid quantum–classical systems"
+        "Developed the first taxonomy of real faults in Hybrid Quantum–Classical architectures published in ACM TOSEM"
       ]
     },
     {
@@ -86,7 +86,7 @@
     {
       "name": "A Taxonomy of Real Faults in Hybrid Quantum-Classical Architectures",
       "publisher": "ACM TOSEM",
-      "releaseDate": "2025-01-15",
+      "releaseDate": "2026-01-19",
       "url": "https://doi.org/10.1145/3788677",
       "summary": ""
     },
@@ -129,31 +129,31 @@
   "projects": [
     {
       "name": "A Taxonomy of Real Faults in Hybrid Quantum-Classical Architectures",
-      "summary": "Published taxonomy of real-world faults in hybrid quantum–classical software systems.",
-      "highlights": ["Quantum Software Testing", "Hybrid Architectures"],
+      "summary": "Published taxonomy of real-world faults in Hybrid Quantum–Classical software architectures.",
+      "highlights": ["Quantum Software Testing", "Taxonomy of real faults", "Hybrid Software"],
       "startDate": "2023-01-01",
       "endDate": "",
       "url": "https://github.com/avnerbensoussan/A-Taxonomy-of-Real-Faults-in-Hybrid-Quantum-Classical-Architectures"
     },
     {
       "name": "King’s Quantum",
-      "summary": "King’s College London research group focusing on quantum computing and quantum software development.",
-      "highlights": ["Hybrid Quantum-Classical Systems", "Quantum Software Verification"],
+      "summary": "King’s Quantum is a multidisciplinary research initiative across King’s College London, integrating expertise from physics, computer science, engineering, and life sciences departments. It develops transformative quantum technologies for healthcare, life sciences, security, and industry, promoting collaboration between academic departments and industry partners to apply quantum computing, sensing, and simulation in real-world challenges.",
+      "highlights": ["Quantum Computing for Drug Discovery", "Quantum Sensors", "Hybrid Quantum-Classical Systems"],
       "startDate": "2024-10-01",
       "endDate": "",
       "url": "https://www.kcl.ac.uk/nmes/research/kings-quantum"
     },
     {
-      "name": "RoarQ",
-      "summary": "Robust and Reliable Quantum Computing collaboration, researching fault-tolerant and dependable quantum systems.",
-      "highlights": ["Quantum Fault Analysis", "Reliable Quantum Software"],
+      "name": "RoaRQ",
+      "summary": "RoaRQ is a UK-wide inter-university collaboration, led by Oxford University, and includes researchers from King's College London and 11 other world-class UK universities. It focuses on developing robust, fault-tolerant quantum computing systems and reliable quantum software, emphasizing cross-university collaboration in quantum fault analysis, verification, and error mitigation.",
+      "highlights": ["Fault-Tolerant Quantum Computing", "Reliable Quantum Software", "Quantum Error Mitigation"],
       "startDate": "2023-10-01",
       "endDate": "",
       "url": "https://www.roarq.cs.ox.ac.uk"
     },
     {
       "name": "VSL-Q (Verified Simulation for Large Quantum Systems)",
-      "summary": "Project on verified simulation techniques for large-scale quantum systems.",
+      "summary": "VSL-Q develops verified simulation techniques for large-scale quantum systems, combining quantum simulation methods with formal verification to ensure correctness and reliability of simulations.",
       "highlights": ["Quantum Simulation", "Formal Verification"],
       "startDate": "2023-10-01",
       "endDate": "",

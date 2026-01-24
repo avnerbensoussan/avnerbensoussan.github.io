@@ -9,7 +9,7 @@ display_categories: [work, fun]
 horizontal: false
 ---
 
-## 🌿 Hobbies — Life Beyond Research
+## 🌿 Life Beyond Research
 
 Outside of research, I invest time in activities that cultivate **discipline, curiosity, endurance, and collective creativity**—values that strongly resonate with my academic work.
 

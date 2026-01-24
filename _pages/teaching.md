@@ -2,7 +2,7 @@
 layout: "page"
 permalink: "/presentations/"
 title: "presentations"
-description: "My latest presentations"
+description: "A collection of my recent presentations and invited talks."
 nav: true
 nav_order: 4
 ---

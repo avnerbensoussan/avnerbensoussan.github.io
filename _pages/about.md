@@ -24,4 +24,6 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am a PhD Candidate in Computer Science at King’s College London. My research focuses on understanding faults in Hybrid Quantum–Classical architectures and on developing foundational methods for robust and reliable quantum software. In particular, I investigate applications of quantum information theory to the testability and verification of quantum and hybrid software architectures.
+I am a PhD candidate in Computer Science at King’s College London. My research focuses on understanding faults in Hybrid Quantum–Classical architectures and on developing foundational methods for robust and reliable quantum software. In particular, I investigate applications of quantum information theory to the testability and verification of quantum and hybrid software architectures.
+
+I am a member of [King’s Quantum](https://www.kcl.ac.uk/nmes/research/kings-quantum) and the [Software Systems (SSY)](https://www.kcl.ac.uk/research/ssy) research groups, and my work contributes to the [RoarQ (Robust and Reliable Quantum Computing)](https://www.roarq.cs.ox.ac.uk) collaboration and the [VSL-Q (Verified Simulation for Large Quantum Systems)](https://kclpure.kcl.ac.uk/portal/en/projects/verified-simulation-for-large-quantum-systems-vsl-q/) project.

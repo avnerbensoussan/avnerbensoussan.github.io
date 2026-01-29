@@ -38,7 +38,8 @@
       "summary": "PhD research on testing and verification of Hybrid Quantum–Classical software architectures. Member of King’s Quantum and the Software Systems (SSY) research group, contributing to the RoarQ (Robust and Reliable Quantum Computing) collaboration and the VSL-Q project.",
       "highlights": [
         "Defined the Quantum Squeeziness information-theoretic testability metric",
-        "Developed the first taxonomy of real faults in Hybrid Quantum–Classical architectures published in ACM TOSEM"
+        "Developed the first taxonomy of real faults in Hybrid Quantum–Classical architectures published in ACM TOSEM",
+        "Co-supervised 5 BSc thesis projects at King’s College London, in industrial collaboration with Applied Quantum Computing, based on OOPSLA 2025 publication AccelerQ."
       ]
     },
     {
@@ -217,17 +218,20 @@
     {
       "name": "Prof. Mohammad Reza Mousavi",
       "icon": "",
-      "reference": "Professor of Software Engineering, King's College London"
+      "reference": "Professor of Software Engineering, King's College London",
+      "email": "mailto:mohammad.mousavi@kcl.ac.uk"
     },
     {
       "name": "Prof. George Booth",
       "icon": "",
-      "reference": "Professor of Theoretical Physics, King's College London"
+      "reference": "Professor of Theoretical Physics, King's College London",
+      "email": "mailto:george.booth@kcl.ac.uk"
     },
     {
       "name": "Dr. Karine Even-Mendoza",
       "icon": "",
-      "reference": "Lecturer in Systems & Programming Languages, King's College London"
+      "reference": "Lecturer in Systems & Programming Languages, King's College London",
+      "email": "mailto:karine.even_mendoza@kcl.ac.uk"
     }
   ]
 }

@@ -75,13 +75,13 @@
     }
   ],
   "awards": [
-    {
-      "title": "B’NAI B’RITH UK – Rothschild Institute Award",
-      "date": "2022-01-01",
-      "awarder": "B’NAI B’RITH UK",
-      "summary": "",
-      "url": "https://www.bnaibrithuk.org/scholarships"
-    }
+    // {
+    //   "title": "B’NAI B’RITH UK – Rothschild Institute Award",
+    //   "date": "2022-01-01",
+    //   "awarder": "B’NAI B’RITH UK",
+    //   "summary": "",
+    //   "url": "https://www.bnaibrithuk.org/scholarships"
+    // }
   ],
   "publications": [
     {

@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-01-19'
+  last_updated: '2026-01-30'
 papers:
   sK-d-vAAAAAJ:9yKSN-GCB0IC:
     citations: 4
@@ -18,7 +18,7 @@ papers:
     title: 'AccelerQ: Accelerating Quantum Eigensolvers with Machine Learning on Quantum Simulators'
     year: '2025'
   sK-d-vAAAAAJ:u-x6o8ySG0sC:
-    citations: 13
+    citations: 15
     title: Exploring LLM-driven explanations for quantum algorithms
     year: '2024'
   sK-d-vAAAAAJ:u5HHmVD_uO8C:

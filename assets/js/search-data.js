@@ -37,7 +37,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/hobbies/";
           },
-        },{id: "post-a-taxonomy-of-real-faults-for-hybrid-quantum-classical-software-architectures-acm-transactions-on-software-engineering-and-methodology-avner-bensoussan",
+        },{id: "post-avner-bensoussan-avner-bensoussan",
+        
+          title: 'Avner Bensoussan | Avner Bensoussan <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
+        
+        description: "“𝑼𝒏 𝒎𝒂𝒍 𝒑𝒐𝒖𝒓 𝒖𝒏 𝒃𝒊𝒆𝒏” 🙂Our work “A Taxonomy of Real Faults in Hybrid Quantum-Classical Architectures” has been accepted to the FSE 2026 Journal First track 🎉The initial short version was rejected ~1.5 years ago—but that turned out to be 𝘢 𝘣𝘭𝘦𝘴𝘴𝘪𝘯𝘨 𝘪𝘯 𝘥𝘪𝘴𝘨𝘶𝘪𝘴𝘦. It gave me the chance to go much deeper, gather valuable feedback from multiple presentations, and develop a more mature version of the work.That journey led to a full paper in TOSEM, and now to presenting this stronger version at FSE.📄 Paper: https://lnkd.in/enDPsETa🔎 Read more about my work: https://lnkd.in/efQGE6J6Looking forward to sharing it with the community—see you in Montreal!",
+        section: "Posts",
+        handler: () => {
+          
+            window.open("https://www.linkedin.com/feed/update/urn:li:activity:7442182866224082944/", "_blank");
+          
+        },
+      },{id: "post-a-taxonomy-of-real-faults-for-hybrid-quantum-classical-software-architectures-acm-transactions-on-software-engineering-and-methodology-avner-bensoussan",
         
           title: 'A Taxonomy of Real Faults for Hybrid Quantum-Classical Software Architectures | ACM Transactions... <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
         
@@ -149,6 +160,12 @@ ninja.data = [{
         },
       },{id: "news-my-first-journal-paper-and-a-journal-first-one-a-taxonomy-of-real-faults-for-hybrid-quantum-classical-software-architectures-has-been-accepted-at-acm-tosem",
           title: 'My first journal paper — and a journal-first one — “A Taxonomy of...',
+          description: "",
+          section: "News",},{id: "news-excited-to-share-that-our-vision-paper-simshadow-toward-live-noise-fingerprinting-for-discrepancy-analysis-in-quantum-software-engineering-has-been-accepted-at-icst-2026",
+          title: 'Excited to share that our vision paper — “SimShadow: Toward Live Noise Fingerprinting...',
+          description: "",
+          section: "News",},{id: "news-our-work-a-taxonomy-of-real-faults-in-hybrid-quantum-classical-architectures-has-been-accepted-to-the-fse-2026-journal-first-track",
+          title: 'Our work “A Taxonomy of Real Faults in Hybrid Quantum-Classical Architectures” has been...',
           description: "",
           section: "News",},{
         id: 'social-cv',

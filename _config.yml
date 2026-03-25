@@ -126,6 +126,18 @@ disqus_shortname: Posts # put your disqus shortname
 # you can display them in your blog by adding a link to the RSS feed.
 # Optional: Set default categories and tags for posts from each source.
 external_sources:
+  # - name: Vision Paper ICST 2026
+  #   posts:
+  #     - url:
+  #       published_date: 2026-03-26
+  #   categories: [external-posts]
+  #   tags: [LinkedIn]
+  - name: FSE Journal First
+    posts:
+      - url: https://www.linkedin.com/feed/update/urn:li:activity:7442182866224082944/
+        published_date: 2026-03-24
+    categories: [external-posts]
+    tags: [LinkedIn]
   - name: Reflections on ACM TOSEM Publication Journey
     posts:
       - url: https://www.linkedin.com/posts/avner-bensoussan-a6494322b_excited-to-share-that-my-first-journal-share-7419361816222531584-XCAy?utm_source=share&utm_medium=member_desktop&rcm=ACoAADmgOiwBnQQLJM15lDf6uuGWFWS0OPttFmY

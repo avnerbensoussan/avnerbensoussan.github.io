@@ -80,14 +80,19 @@ We introduce several test oracles to validate both the formal model and simulato
 }
 
 @article{bensoussan2025live,
-  abbr={arXiv},
+  abbr={ICST},
   bibtex_show={true},
   title={Toward Live Noise Fingerprinting in Quantum Software Engineering},
   author={Bensoussan, A. and Chachkarova, E. and Even-Mendoza, K. and Fortz, S. and Klimis, V.},
+  abstract={
+  Contemporary quantum computers are inherently noisy, posing significant challenges for the development and testing of quantum software. Simplified or outdated noise assumptions can lead to incorrect assessments of program correctness, obscure debugging, and hinder cross-platform portability, creating a critical quantum software development gap. Providing accurate, practical noise characterisation is challenging as traditional reconstruction methods scale exponentially and rapidly become outdated.
+In this vision paper, we address this gap via a novel classical shadow tomography-based pipeline, SIMSHADOW, enabling efficient, continuously updatable noise fingerprinting from empirical observations, suitable for integration into quantum software development workflows, including testing and validation. We prototyped the pipeline to investigate fingerprints’ ability to capture structured, interpretable noise and cross-platform discrepancies affecting quantum programs’ behaviour to support realistic testing and debugging in future tools. Our evaluation with Qiskit and Cirq under widely used hardware-informed profiles, IBM Boston and Quantinuum H2, shows fingerprints exhibit channel-specific structure and yield interpretable heatmaps. We observed systematic cross-platform discrepancies under matched noise configurations, quantified by large Frobenius distances at a fraction of full tomography cost. On 69 MQTBENCH programs, larger fingerprint differences correlate with output distributions divergences, highlighting threats for testing and cross-platform debugging tasks.
+},
   journal={arXiv preprint},
   volume={arXiv:2512.18667},
   year={2025},
-  url={https://arxiv.org/abs/2512.18667},
+  doi={10.48550/arXiv.2512.18667},
+  url={https://kclpure.kcl.ac.uk/portal/en/publications/toward-live-noise-fingerprinting-for-discrepancy-analysis-in-quan/},
   pdf={simshadow.pdf},
   annotation={},
   selected={true},

@@ -1,18 +1,18 @@
 metadata:
-  last_updated: '2026-03-25'
+  last_updated: '2026-04-01'
 papers:
   sK-d-vAAAAAJ:9yKSN-GCB0IC:
     citations: 6
     title: 'Synthetic versus real: an analysis of critical scenarios for autonomous vehicle testing'
     year: '2025'
-  sK-d-vAAAAAJ:IjCSPb-OGe4C:
-    citations: 0
-    title: Toward Live Noise Fingerprinting in Quantum Software Engineering
-    year: '2025'
   sK-d-vAAAAAJ:UeHWp8X0CEIC:
     citations: 1
     title: Shaking Up Quantum Simulators with Fuzzing and Rigour
     year: '2025'
+  sK-d-vAAAAAJ:Y0pCki6q_DkC:
+    citations: 0
+    title: Toward Live Noise Fingerprinting for Discrepancy Analysis in Quantum Software Engineering
+    year: '2026'
   sK-d-vAAAAAJ:qjMakFHDy7sC:
     citations: 3
     title: 'AccelerQ: Accelerating Quantum Eigensolvers with Machine Learning on Quantum Simulators'

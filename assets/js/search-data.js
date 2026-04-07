@@ -37,7 +37,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/hobbies/";
           },
-        },{id: "post-avner-bensoussan-avner-bensoussan",
+        },{id: "post-quantum-noise-characterisation-for-reliable-software-avner-bensoussan-posted-on-the-topic-linkedin",
+        
+          title: 'Quantum Noise Characterisation for Reliable Software | Avner Bensoussan posted on the topic... <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
+        
+        description: "🚀 Our paper has been accepted at the 19th IEEE International Conference on Software Testing, Verification and Validation (ICST 2026).📄 𝘛𝘰𝘸𝘢𝘳𝘥 𝘓𝘪𝘷𝘦 𝘕𝘰𝘪𝘴𝘦 𝘍𝘪𝘯𝘨𝘦𝘳𝘱𝘳𝘪𝘯𝘵𝘪𝘯𝘨 𝘧𝘰𝘳 𝘋𝘪𝘴𝘤𝘳𝘦𝘱𝘢𝘯𝘤𝘺 𝘈𝘯𝘢𝘭𝘺𝘴𝘪𝘴 𝘪𝘯 𝘘𝘶𝘢𝘯𝘵𝘶𝘮 𝘚𝘰𝘧𝘵𝘸𝘢𝘳𝘦 𝘌𝘯𝘨𝘪𝘯𝘦𝘦𝘳𝘪𝘯𝘨🔗 https://lnkd.in/ehw2MskwNoise remains a fundamental obstacle to reliable quantum software — yet current models are often static, coarse, and misaligned with real system behaviour.In this work, we introduce 𝒍𝒊𝒗𝒆 𝒏𝒐𝒊𝒔𝒆 𝒇𝒊𝒏𝒈𝒆𝒓𝒑𝒓𝒊𝒏𝒕𝒊𝒏𝒈, a lightweight and empirical approach to characterising noisy quantum systems.Our key idea:→ leverage 𝒄𝒍𝒂𝒔𝒔𝒊𝒄𝒂𝒍 𝒔𝒉𝒂𝒅𝒐𝒘 𝒕𝒆𝒄𝒉𝒏𝒊𝒒𝒖𝒆𝒔 to build compact, updatable fingerprints of noise→ enable efficient comparison of quantum states and platforms (e.g., Qiskit vs Cirq)→ support practical workflows for 𝒕𝒆𝒔𝒕𝒊𝒏𝒈, 𝒅𝒆𝒃𝒖𝒈𝒈𝒊𝒏𝒈, and 𝒄𝒓𝒐𝒔𝒔-𝒑𝒍𝒂𝒕𝒇𝒐𝒓𝒎 𝒗𝒂𝒍𝒊𝒅𝒂𝒕𝒊𝒐𝒏We implement this vision in SIMSHADOW, showing that fingerprints:• capture structured, interpretable noise patterns• reveal systematic cross-platform discrepancies• correlate with observable divergences in program outputsMore broadly, this work bridges 𝒒𝒖𝒂𝒏𝒕𝒖𝒎 𝒊𝒏𝒇𝒐𝒓𝒎𝒂𝒕𝒊𝒐𝒏 𝒕𝒉𝒆𝒐𝒓𝒚 and 𝒔𝒐𝒇𝒕𝒘𝒂𝒓𝒆 𝒕𝒆𝒔𝒕𝒊𝒏𝒈, moving toward more reliable and portable quantum software systems.",
+        section: "Posts",
+        handler: () => {
+          
+            window.open("https://www.linkedin.com/posts/avner-bensoussan-a6494322b_toward-live-noise-fingerprinting-for-discrepancy-activity-7444718756158783489-q3UY", "_blank");
+          
+        },
+      },{id: "post-avner-bensoussan-avner-bensoussan",
         
           title: 'Avner Bensoussan | Avner Bensoussan <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
         

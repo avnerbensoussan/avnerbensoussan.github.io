@@ -17,7 +17,6 @@ Endurance sports are a central part of my routine. I practice triathlon, which s
 
 In the summer, I enjoy bikepacking—traveling slowly and self-supported, staying close to landscapes and people. I also go hiking and backpacking whenever I can, seeking out remote places as a counterbalance to time spent in the lab.
 
-
 <p align="center">
   <img src="/assets/img/Hobbies.png" alt="Hobbies: choir, triathlon, bikepacking, hiking" width="650">
   <br>

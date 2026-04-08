@@ -11,13 +11,12 @@ horizontal: false
 
 ## 🌿 Life Beyond Research
 
-Outside of research, I invest time in activities that cultivate **discipline, curiosity, endurance, and collective creativity**—values that strongly resonate with my academic work.
+I sing weekly with **<a href="https://zinnechoeur.be" target="_blank">Zinnechoeur</a>**, an a cappella choir of 32 singers. Working on demanding vocal pieces in a group setting has taught me a lot about listening, precision, and collective effort.
 
-I sing weekly with **<a href="https://zinnechoeur.be" target="_blank">Zinnechoeur</a>**, an a cappella choir of **32 wonderfully diverse singers**. Guided by an inspiring conductor, we explore demanding and expressive vocal repertoires, building something meaningful through listening, balance, and collective effort.
+Endurance sports are a central part of my routine. I practice triathlon, which structures my weeks through training and my years through long-term goals and races. It provides both physical challenge and mental clarity.
 
-Endurance sports play a central role in my routine. **Triathlon** brings rigor and structure to my weeks through training, and to my years through long-term goals, races, and challenges. It provides a steady framework that supports both physical resilience and mental focus.
+In the summer, I enjoy bikepacking—traveling slowly and self-supported, staying close to landscapes and people. I also go hiking and backpacking whenever I can, seeking out remote places as a counterbalance to time spent in the lab.
 
-During summers, I turn to **bikepacking** as a way of traveling: slow, self-supported journeys that offer freedom, simplicity, and a close connection to landscapes and people. Complementing this, **hiking and backpacking** take me to remote and beautiful places around the world, offering immersion in nature to balance the year working in the lab on my research.
 
 <p align="center">
   <img src="/assets/img/Hobbies.png" alt="Hobbies: choir, triathlon, bikepacking, hiking" width="650">

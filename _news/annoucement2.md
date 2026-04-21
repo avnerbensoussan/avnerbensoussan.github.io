@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Excited to share that our **vision paper** — **“SimShadow: Toward Live Noise Fingerprinting for Discrepancy Analysis in Quantum Software Engineering”** — has been accepted at **ICST 2026**! ✨😄
+Excited to share that our **vision paper** — **“SimShadow: Toward Live Noise Fingerprinting for Discrepancy Analysis in Quantum Software Engineering”** — has been accepted at **ICST 2026**!

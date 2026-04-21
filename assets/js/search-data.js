@@ -169,10 +169,7 @@ ninja.data = [{
             window.open("https://www.linkedin.com/posts/avner-bensoussan-a6494322b_reflections-on-an-amazing-conference-ugcPost-7238869707213209600-1tlV?utm_source=share&utm_medium=member_desktop&rcm=ACoAADmgOiwBnQQLJM15lDf6uuGWFWS0OPttFmY", "_blank");
           
         },
-      },{id: "news-i-was-invited-to-be-a-pc-member-at-the-ieee-quantum-week-2026",
-          title: 'I was invited to be a PC Member at the IEEE Quantum Week...',
-          description: "",
-          section: "News",},{id: "news-my-first-journal-paper-and-a-journal-first-one-a-taxonomy-of-real-faults-for-hybrid-quantum-classical-software-architectures-has-been-accepted-at-acm-tosem",
+      },{id: "news-my-first-journal-paper-and-a-journal-first-one-a-taxonomy-of-real-faults-for-hybrid-quantum-classical-software-architectures-has-been-accepted-at-acm-tosem",
           title: 'My first journal paper — and a journal-first one — “A Taxonomy of...',
           description: "",
           section: "News",},{id: "news-excited-to-share-that-our-vision-paper-simshadow-toward-live-noise-fingerprinting-for-discrepancy-analysis-in-quantum-software-engineering-has-been-accepted-at-icst-2026",
@@ -180,6 +177,9 @@ ninja.data = [{
           description: "",
           section: "News",},{id: "news-our-work-a-taxonomy-of-real-faults-in-hybrid-quantum-classical-architectures-has-been-accepted-to-the-fse-2026-journal-first-track",
           title: 'Our work “A Taxonomy of Real Faults in Hybrid Quantum-Classical Architectures” has been...',
+          description: "",
+          section: "News",},{id: "news-i-was-invited-to-be-a-pc-member-at-the-ieee-quantum-week-2026",
+          title: 'I was invited to be a PC Member at the IEEE Quantum Week...',
           description: "",
           section: "News",},{
         id: 'social-cv',

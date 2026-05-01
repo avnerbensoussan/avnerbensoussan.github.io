@@ -1,8 +1,8 @@
 metadata:
-  last_updated: '2026-04-22'
+  last_updated: '2026-05-01'
 papers:
   sK-d-vAAAAAJ:9yKSN-GCB0IC:
-    citations: 6
+    citations: 7
     title: 'Synthetic versus real: an analysis of critical scenarios for autonomous vehicle testing'
     year: '2025'
   sK-d-vAAAAAJ:UeHWp8X0CEIC:
@@ -14,7 +14,7 @@ papers:
     title: Toward Live Noise Fingerprinting for Discrepancy Analysis in Quantum Software Engineering
     year: '2026'
   sK-d-vAAAAAJ:qjMakFHDy7sC:
-    citations: 3
+    citations: 4
     title: 'AccelerQ: Accelerating Quantum Eigensolvers with Machine Learning on Quantum Simulators'
     year: '2025'
   sK-d-vAAAAAJ:u-x6o8ySG0sC:
@@ -22,10 +22,10 @@ papers:
     title: Exploring llm-driven explanations for quantum algorithms
     year: '2024'
   sK-d-vAAAAAJ:u5HHmVD_uO8C:
-    citations: 6
+    citations: 8
     title: Fuzzing-based differential testing for quantum simulators
     year: '2024'
   sK-d-vAAAAAJ:zYLM7Y9cAGgC:
-    citations: 4
+    citations: 5
     title: A Taxonomy of Real Faults for Hybrid Quantum-Classical Software Architectures
     year: '2025'

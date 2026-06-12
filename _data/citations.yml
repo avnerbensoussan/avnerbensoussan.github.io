@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-05-27'
+  last_updated: '2026-06-12'
 papers:
   sK-d-vAAAAAJ:9yKSN-GCB0IC:
     citations: 10
@@ -26,6 +26,6 @@ papers:
     title: Fuzzing-based differential testing for quantum simulators
     year: '2024'
   sK-d-vAAAAAJ:zYLM7Y9cAGgC:
-    citations: 5
+    citations: 6
     title: A Taxonomy of Real Faults for Hybrid Quantum-Classical Software Architectures
     year: '2025'

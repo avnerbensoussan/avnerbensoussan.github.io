@@ -203,7 +203,7 @@ ninja.data = [{
           section: "News",},{id: "news-i-was-invited-to-be-a-pc-member-at-the-ieee-quantum-week-2026",
           title: 'I was invited to be a PC Member at the IEEE Quantum Week...',
           description: "",
-          section: "News",},{id: "news-excited-to-share-that-our-paper-quantum-squeeziness-information-theoretic-foundations-of-quantum-software-testability-has-received-a-straight-acceptance-at-ase-2026-this-work-introduces-the-first-formalisation-of-quantum-software-testability-and-proposes-quantum-squeeziness-an-information-theoretic-metric-that-quantifies-how-faults-are-masked-and-prevented-from-propagating-to-observable-outcomes-by-establishing-a-rigorous-foundation-for-reasoning-about-fault-propagation-and-observability-in-quantum-programs-we-connect-classical-software-engineering-principles-with-quantum-information-theory-and-open-new-directions-for-testing-debugging-and-improving-the-robustness-of-quantum-software-see-you-in-munich",
+          section: "News",},{id: "news-excited-to-share-that-our-paper-quantum-squeeziness-information-theoretic-foundations-of-quantum-software-testability-has-received-a-straight-acceptance-at-ase-2026",
           title: 'Excited to share that our paper — Quantum Squeeziness: Information-Theoretic Foundations of Quantum...',
           description: "",
           section: "News",},{

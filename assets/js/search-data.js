@@ -37,7 +37,29 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/hobbies/";
           },
-        },{id: "post-quantum-noise-characterisation-for-reliable-software-avner-bensoussan-posted-on-the-topic-linkedin",
+        },{id: "post-excited-to-share-that-our-paper-𝑸𝒖𝒂𝒏𝒕𝒖𝒎-𝑺𝒒𝒖𝒆𝒆𝒛𝒊𝒏𝒆𝒔𝒔-𝑰𝒏𝒇𝒐𝒓𝒎𝒂𝒕𝒊𝒐𝒏-𝑻𝒉𝒆𝒐𝒓𝒆𝒕𝒊𝒄-𝑭𝒐𝒖𝒏𝒅𝒂𝒕𝒊𝒐𝒏𝒔-𝒐𝒇-𝑸𝒖𝒂𝒏𝒕𝒖𝒎-𝑺𝒐𝒇𝒕𝒘𝒂𝒓𝒆-avner-bensoussan",
+        
+          title: '🚀 Excited to share that our paper 𝑸𝒖𝒂𝒏𝒕𝒖𝒎 𝑺𝒒𝒖𝒆𝒆𝒛𝒊𝒏𝒆𝒔𝒔: 𝑰𝒏𝒇𝒐𝒓𝒎𝒂𝒕𝒊𝒐𝒏-𝑻𝒉𝒆𝒐𝒓𝒆𝒕𝒊𝒄 𝑭𝒐𝒖𝒏𝒅𝒂𝒕𝒊𝒐𝒏𝒔 𝒐𝒇 𝑸𝒖𝒂𝒏𝒕𝒖𝒎 𝑺𝒐𝒇𝒕𝒘𝒂𝒓𝒆…... <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
+        
+        description: "🚀 Excited to share that our paper 𝑸𝒖𝒂𝒏𝒕𝒖𝒎 𝑺𝒒𝒖𝒆𝒆𝒛𝒊𝒏𝒆𝒔𝒔: 𝑰𝒏𝒇𝒐𝒓𝒎𝒂𝒕𝒊𝒐𝒏-𝑻𝒉𝒆𝒐𝒓𝒆𝒕𝒊𝒄 𝑭𝒐𝒖𝒏𝒅𝒂𝒕𝒊𝒐𝒏𝒔 𝒐𝒇 𝑸𝒖𝒂𝒏𝒕𝒖𝒎 𝑺𝒐𝒇𝒕𝒘𝒂𝒓𝒆 𝑻𝒆𝒔𝒕𝒂𝒃𝒊𝒍𝒊𝒕𝒚 received a 𝐬𝐭𝐫𝐚𝐢𝐠𝐡𝐭 𝐚𝐜𝐜𝐞𝐩𝐭𝐚𝐧𝐜𝐞 𝐚𝐭 𝐀𝐒𝐄 2026!Software testability has been a foundational concept in software engineering for decades, shaping how we reason about fault detection, debugging, and software quality. Yet, despite rapid advances in quantum computing, there has been no formal notion of testability for quantum software.In this work, we take a first step toward closing that gap by introducing the 𝐟𝐢𝐫𝐬𝐭 𝐟𝐨𝐫𝐦𝐚𝐥𝐢𝐬𝐚𝐭𝐢𝐨𝐧 𝐨𝐟 𝐪𝐮𝐚𝐧𝐭𝐮𝐦 𝐬𝐨𝐟𝐭𝐰𝐚𝐫𝐞 𝐭𝐞𝐬𝐭𝐚𝐛𝐢𝐥𝐢𝐭𝐲. Building on classical software engineering and quantum information theory, we define 𝑸𝒖𝒂𝒏𝒕𝒖𝒎 𝑺𝒒𝒖𝒆𝒆𝒛𝒊𝒏𝒆𝒔𝒔—an information-theoretic measure that captures how much information about a fault is lost as it propagates through a quantum program.The key idea is simple: if faults are masked before they reach observable outcomes, the software becomes harder to test. Quantum Squeeziness quantifies this phenomenon, providing a rigorous foundation for reasoning about fault propagation, observability, and test effectiveness in quantum systems.Across 50,000+ mutants, we show that higher squeeziness strongly predicts lower fault detectability, while our optimized 𝑭𝒂𝒔𝒕𝑺𝒒𝒖𝒆𝒆𝒛𝒊𝒏𝒆𝒔𝒔 technique achieves a 16.9× speedup with 95% accuracy.Beyond testing and debugging, we believe this opens new research directions at the intersection of software engineering, quantum information theory, and quantum reliability, with potential applications in 𝐞𝐫𝐫𝐨𝐫 𝐦𝐢𝐭𝐢𝐠𝐚𝐭𝐢𝐨𝐧, 𝐟𝐚𝐮𝐥𝐭 𝐭𝐨𝐥𝐞𝐫𝐚𝐧𝐜𝐞, 𝐚𝐧𝐝 𝐝𝐞𝐬𝐢𝐠𝐧-𝐟𝐨𝐫-𝐭𝐞𝐬𝐭𝐚𝐛𝐢𝐥𝐢𝐭𝐲 𝐨𝐟 𝐟𝐮𝐭𝐮𝐫𝐞 𝐪𝐮𝐚𝐧𝐭𝐮𝐦 𝐬𝐨𝐟𝐭𝐰𝐚𝐫𝐞.Very proud of this contribution and grateful to my co-authors and collaborators throughout the journey.See you in Munich for ASE 2026! 🇩🇪",
+        section: "Posts",
+        handler: () => {
+          
+            window.open("https://www.linkedin.com/posts/avner-bensoussan-a6494322b_excited-to-share-that-our-paper%F0%9D%91%B8%F0%9D%92%96%F0%9D%92%82-share-7475138389403570178-BkTj/?utm_source=share&utm_medium=member_desktop&rcm=ACoAADmgOiwBnQQLJM15lDf6uuGWFWS0OPttFmY", "_blank");
+          
+        },
+      },{id: "post-last-week-i-had-the-pleasure-of-participating-in-the-first-edition-of-the-qse-phd-school-hopefully-the-first-of-many-it-was-fantastic-to-connect-with-such-a-vibrant-young-and-rapidly-avner-bensoussan",
+        
+          title: '🚀 Last week, I had the pleasure of participating in the first edition... <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
+        
+        description: "🚀 Last week, I had the pleasure of participating in the first edition of the QSE PhD School — hopefully the first of many!🤝 It was fantastic to connect with such a vibrant, young, and rapidly growing community. For the first time, I felt fully “in the right room” research-wise — I’m usually either the only software person at quantum events or the only quantum person at software events. Seeing a community emerge exactly at this intersection makes me even more motivated to help it grow, and I feel honoured to be part of it.💬 I especially enjoyed the discussions around layers of abstraction, software testing challenges, and how we can conceptualise software natively for the challenges brought by quantum and hybrid architectures. Usually, it is a very good sign when talks naturally turn into 45-minute discussions between speakers and audience instead of going to coffee breaks!📌 I also had the opportunity to present two posters on Hybrid Faults Taxonomy and Quantum Testability using Quantum Squeeziness, which sparked many interesting exchanges and perspectives.⛰️ And of course, the epic walk was absolutely worth it — yes, even the 500 m of elevation gain!🙏 Looking forward to staying connected with all of you, and many thanks to the organisers for making this happen.https://lnkd.in/eV79rw2V",
+        section: "Posts",
+        handler: () => {
+          
+            window.open("https://www.linkedin.com/posts/avner-bensoussan-a6494322b_last-week-i-had-the-pleasure-of-participating-share-7463138608460505088-mlHG/?utm_source=share&utm_medium=member_desktop&rcm=ACoAADmgOiwBnQQLJM15lDf6uuGWFWS0OPttFmY", "_blank");
+          
+        },
+      },{id: "post-quantum-noise-characterisation-for-reliable-software-avner-bensoussan-posted-on-the-topic-linkedin",
         
           title: 'Quantum Noise Characterisation for Reliable Software | Avner Bensoussan posted on the topic... <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
         
@@ -56,7 +78,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.open("https://www.linkedin.com/feed/update/urn:li:activity:7442182866224082944/", "_blank");
+            window.open("https://www.linkedin.com/posts/avner-bensoussan-a6494322b_avner-bensoussan-share-7442182865397661696-z3Ic/?utm_source=share&utm_medium=member_desktop&rcm=ACoAADmgOiwBnQQLJM15lDf6uuGWFWS0OPttFmY", "_blank");
           
         },
       },{id: "post-a-taxonomy-of-real-faults-for-hybrid-quantum-classical-software-architectures-acm-transactions-on-software-engineering-and-methodology-avner-bensoussan",
@@ -180,6 +202,9 @@ ninja.data = [{
           description: "",
           section: "News",},{id: "news-i-was-invited-to-be-a-pc-member-at-the-ieee-quantum-week-2026",
           title: 'I was invited to be a PC Member at the IEEE Quantum Week...',
+          description: "",
+          section: "News",},{id: "news-excited-to-share-that-our-paper-quantum-squeeziness-information-theoretic-foundations-of-quantum-software-testability-has-received-a-straight-acceptance-at-ase-2026-this-work-introduces-the-first-formalisation-of-quantum-software-testability-and-proposes-quantum-squeeziness-an-information-theoretic-metric-that-quantifies-how-faults-are-masked-and-prevented-from-propagating-to-observable-outcomes-by-establishing-a-rigorous-foundation-for-reasoning-about-fault-propagation-and-observability-in-quantum-programs-we-connect-classical-software-engineering-principles-with-quantum-information-theory-and-open-new-directions-for-testing-debugging-and-improving-the-robustness-of-quantum-software-see-you-in-munich",
+          title: 'Excited to share that our paper — Quantum Squeeziness: Information-Theoretic Foundations of Quantum...',
           description: "",
           section: "News",},{
         id: 'social-cv',

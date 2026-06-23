@@ -126,6 +126,14 @@ disqus_shortname: Posts # put your disqus shortname
 # you can display them in your blog by adding a link to the RSS feed.
 # Optional: Set default categories and tags for posts from each source.
 external_sources:
+  - name: Quantum Squeeziness
+    posts:
+      - url: https://www.linkedin.com/posts/avner-bensoussan-a6494322b_excited-to-share-that-our-paper%F0%9D%91%B8%F0%9D%92%96%F0%9D%92%82-share-7475138389403570178-BkTj/?utm_source=share&utm_medium=member_desktop&rcm=ACoAADmgOiwBnQQLJM15lDf6uuGWFWS0OPttFmY
+        published_date: 2026-06-23
+  - name: QSE Summer School
+    posts:
+      - url: https://www.linkedin.com/posts/avner-bensoussan-a6494322b_last-week-i-had-the-pleasure-of-participating-share-7463138608460505088-mlHG/?utm_source=share&utm_medium=member_desktop&rcm=ACoAADmgOiwBnQQLJM15lDf6uuGWFWS0OPttFmY
+        published_date: 2026-05-23
   - name: Vision Paper ICST 2026
     posts:
       - url: https://www.linkedin.com/posts/avner-bensoussan-a6494322b_toward-live-noise-fingerprinting-for-discrepancy-activity-7444718756158783489-q3UY
@@ -134,7 +142,7 @@ external_sources:
     tags: [LinkedIn]
   - name: FSE Journal First
     posts:
-      - url: https://www.linkedin.com/feed/update/urn:li:activity:7442182866224082944/
+      - url: https://www.linkedin.com/posts/avner-bensoussan-a6494322b_avner-bensoussan-share-7442182865397661696-z3Ic/?utm_source=share&utm_medium=member_desktop&rcm=ACoAADmgOiwBnQQLJM15lDf6uuGWFWS0OPttFmY
         published_date: 2026-03-24
     categories: [external-posts]
     tags: [LinkedIn]

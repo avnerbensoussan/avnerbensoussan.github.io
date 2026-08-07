@@ -1,24 +1,28 @@
 metadata:
-  last_updated: '2026-07-06'
+  last_updated: '2026-08-07'
 papers:
   sK-d-vAAAAAJ:9yKSN-GCB0IC:
-    citations: 11
+    citations: 13
     title: 'Synthetic versus real: an analysis of critical scenarios for autonomous vehicle testing'
     year: '2025'
   sK-d-vAAAAAJ:UeHWp8X0CEIC:
-    citations: 4
-    title: Shaking Up Quantum Simulators with Fuzzing and Rigour
+    citations: 7
+    title: Shaking up quantum simulators with fuzzing and rigour
     year: '2025'
-  sK-d-vAAAAAJ:Y0pCki6q_DkC:
+  sK-d-vAAAAAJ:W7OEmFMy1HYC:
     citations: 0
+    title: 'Quantum Squeeziness: Information-Theoretic Foundations of Quantum Software Testability'
+    year: '2026'
+  sK-d-vAAAAAJ:Y0pCki6q_DkC:
+    citations: 2
     title: Toward Live Noise Fingerprinting for Discrepancy Analysis in Quantum Software Engineering
     year: '2026'
   sK-d-vAAAAAJ:qjMakFHDy7sC:
     citations: 5
-    title: 'AccelerQ: Accelerating Quantum Eigensolvers with Machine Learning on Quantum Simulators'
+    title: 'Accelerq: accelerating quantum eigensolvers with machine learning on quantum simulators'
     year: '2025'
   sK-d-vAAAAAJ:u-x6o8ySG0sC:
-    citations: 22
+    citations: 24
     title: Exploring llm-driven explanations for quantum algorithms
     year: '2024'
   sK-d-vAAAAAJ:u5HHmVD_uO8C:
@@ -26,6 +30,6 @@ papers:
     title: Fuzzing-based differential testing for quantum simulators
     year: '2024'
   sK-d-vAAAAAJ:zYLM7Y9cAGgC:
-    citations: 7
-    title: A Taxonomy of Real Faults for Hybrid Quantum-Classical Software Architectures
+    citations: 8
+    title: A taxonomy of real faults for hybrid quantum-classical software architectures
     year: '2025'

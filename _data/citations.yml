@@ -1,8 +1,8 @@
 metadata:
-  last_updated: '2026-08-07'
+  last_updated: '2026-08-17'
 papers:
   sK-d-vAAAAAJ:9yKSN-GCB0IC:
-    citations: 13
+    citations: 14
     title: 'Synthetic versus real: an analysis of critical scenarios for autonomous vehicle testing'
     year: '2025'
   sK-d-vAAAAAJ:UeHWp8X0CEIC:
@@ -22,7 +22,7 @@ papers:
     title: 'Accelerq: accelerating quantum eigensolvers with machine learning on quantum simulators'
     year: '2025'
   sK-d-vAAAAAJ:u-x6o8ySG0sC:
-    citations: 24
+    citations: 25
     title: Exploring llm-driven explanations for quantum algorithms
     year: '2024'
   sK-d-vAAAAAJ:u5HHmVD_uO8C:

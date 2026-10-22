@@ -128,7 +128,7 @@ disqus_shortname: Posts # put your disqus shortname
 external_sources:
   - name: From Munich to Tokyo
     posts:
-      - url: https://www.linkedin.com/posts/avner-bensoussan-a6494322b_from-𝑴𝒖𝒏𝒊𝒄𝒉-to-𝑻𝒐𝒌𝒚𝒐-it-was-share-7518229456709398529-5-7E/?utm_source=share&utm_medium=member_desktop&rcm=ACoAADmgOiwBnQQLJM15lDf6uuGWFWS0OPttFmY
+      - url: "https://www.linkedin.com/posts/avner-bensoussan-a6494322b_from-%F0%9D%91%B4%F0%9D%92%96%F0%9D%92%8F%F0%9D%92%8A%F0%9D%92%84%F0%9D%92%89-to-%F0%9D%91%BB%F0%9D%92%90%F0%9D%92%8C%F0%9D%92%9A%F0%9D%92%90-it-was-share-7518229456709398529-5-7E/?utm_source=share&utm_medium=member_desktop&rcm=ACoAADmgOiwBnQQLJM15lDf6uuGWFWS0OPttFmY"
         published_date: 2026-10-20
     categories: [external-posts]
     tags: [LinkedIn]

@@ -130,14 +130,20 @@ external_sources:
     posts:
       - url: https://www.linkedin.com/posts/avner-bensoussan-a6494322b_from-𝑴𝒖𝒏𝒊𝒄𝒉-to-𝑻𝒐𝒌𝒚𝒐-it-was-share-7518229456709398529-5-7E/?utm_source=share&utm_medium=member_desktop&rcm=ACoAADmgOiwBnQQLJM15lDf6uuGWFWS0OPttFmY
         published_date: 2026-10-20
+    categories: [external-posts]
+    tags: [LinkedIn]
   - name: Quantum Squeeziness
     posts:
       - url: https://www.linkedin.com/posts/avner-bensoussan-a6494322b_excited-to-share-that-our-paper%F0%9D%91%B8%F0%9D%92%96%F0%9D%92%82-share-7475138389403570178-BkTj/?utm_source=share&utm_medium=member_desktop&rcm=ACoAADmgOiwBnQQLJM15lDf6uuGWFWS0OPttFmY
         published_date: 2026-06-23
+    categories: [external-posts]
+    tags: [LinkedIn]
   - name: QSE Summer School
     posts:
       - url: https://www.linkedin.com/posts/avner-bensoussan-a6494322b_last-week-i-had-the-pleasure-of-participating-share-7463138608460505088-mlHG/?utm_source=share&utm_medium=member_desktop&rcm=ACoAADmgOiwBnQQLJM15lDf6uuGWFWS0OPttFmY
         published_date: 2026-05-23
+    categories: [external-posts]
+    tags: [LinkedIn]
   - name: Vision Paper ICST 2026
     posts:
       - url: https://www.linkedin.com/posts/avner-bensoussan-a6494322b_toward-live-noise-fingerprinting-for-discrepancy-activity-7444718756158783489-q3UY

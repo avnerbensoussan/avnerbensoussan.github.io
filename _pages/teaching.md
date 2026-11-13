@@ -11,7 +11,7 @@ Below are selected presentations and invited talks given in academic and researc
 
 ---
 
-🇩🇪 Conference Presentation — ASE 2026, Munich
+## 🇩🇪 Conference Presentation — ASE 2026, Munich
 
 I presented our paper, Quantum Squeeziness: Information-Theoretic Foundations of Quantum Software Testability, which introduces a **theoretical foundation for assessing the testability of quantum software**, at ASE 2026 in Munich, Germany.
 

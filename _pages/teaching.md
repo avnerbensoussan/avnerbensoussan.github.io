@@ -11,6 +11,27 @@ Below are selected presentations and invited talks given in academic and researc
 
 ---
 
+🇩🇪 Conference Presentation — ASE 2026, Munich
+
+I presented our paper, Quantum Squeeziness: Information-Theoretic Foundations of Quantum Software Testability, which introduces a **theoretical foundation for assessing the testability of quantum software**, at ASE 2026 in Munich, Germany.
+
+Presented paper:
+
+<a href="https://dl.acm.org/doi/10.1145/3832783.3834341" target="_blank">Quantum Squeeziness: Information-Theoretic Foundations of Quantum Software Testability</a>
+
+<p align="center">
+  <img
+    src="/assets/img/ASE.jpeg"
+    alt="ASE 2026 presentation in Munich"
+    width="650"
+    style="border-radius: 8px; box-shadow: 0 8px 20px rgba(0,0,0,0.15);"
+  >
+  <br>
+  <em>Presenting at ASE 2026 — Munich, Germany</em>
+</p>
+
+---
+
 ## 🎓 Guest Lecture — King’s College London
 
 I had the honour to be invited as a **guest lecturer at King’s College London**, where I presented my PhD research to **3rd-year Bachelor and Master students** in the context of **Prof. Mohammad Reza Mousavi’s Testing Module**.

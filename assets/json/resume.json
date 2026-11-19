@@ -75,16 +75,21 @@
       "courses": ["Final Project: Testing the Ethical Decision-Making of Autonomous Vehicles"]
     }
   ],
-  "awards": [
-    // {
-    //   "title": "B’NAI B’RITH UK – Rothschild Institute Award",
-    //   "date": "2022-01-01",
-    //   "awarder": "B’NAI B’RITH UK",
-    //   "summary": "",
-    //   "url": "https://www.bnaibrithuk.org/scholarships"
-    // }
-  ],
   "publications": [
+    {
+      "name": "Quantum Squeeziness: An Information Theoretical Metric for Quantum Software Testability",
+      "publisher": "Proceedings of the 41st IEEE/ACM International Conference on Automated Software Engineering (ASE 2026)",
+      "releaseDate": "2026-10-07",
+      "url": "https://doi.org/10.1145/3832783.3834341",
+      "summary": ""
+    },
+    {
+      "name": "Toward Live Noise Fingerprinting for Discrepancy Analysis in Quantum Software Engineering",
+      "publisher": "Proceedings of the 19th IEEE International Conference on Software Testing, Verification and Validation (ICST 2026)",
+      "releaseDate": "2026",
+      "url": "https://doi.org/10.1109/ICST69053.2026.00096",
+      "summary": "Presents a live noise fingerprinting approach for discrepancy analysis in quantum software engineering, aiming to characterize hardware noise and identify discrepancies between expected and observed quantum program behavior."
+    },
     {
       "name": "A Taxonomy of Real Faults in Hybrid Quantum-Classical Architectures",
       "publisher": "ACM TOSEM",
